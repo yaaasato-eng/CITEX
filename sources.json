@@ -1,0 +1,220 @@
+{
+  "start_date": "2023-11-01",
+  "interval_seconds": 1.5,
+  "timeout_seconds": 10,
+  "detail_limit_per_company": 18,
+  "sources": [
+    {
+      "id": "kajima",
+      "name": "鹿島建設",
+      "list": "https://www.kajima.co.jp/news/press/index-j.html",
+      "layout": "archive",
+      "enabled": true,
+      "terms": "https://www.kajima.co.jp/site_policy/index-j.html",
+      "group": "major"
+    },
+    {
+      "id": "taisei",
+      "name": "大成建設",
+      "list": "https://www.taisei.co.jp/about_us/wn/{year}/",
+      "layout": "year",
+      "enabled": true,
+      "terms": "https://www.taisei.co.jp/terms.html",
+      "group": "major"
+    },
+    {
+      "id": "obayashi",
+      "name": "大林組",
+      "list": "https://www.obayashi.co.jp/news/press/{year}/",
+      "layout": "year",
+      "enabled": true,
+      "terms": "https://www.obayashi.co.jp/terms.html",
+      "group": "major"
+    },
+    {
+      "id": "shimz",
+      "name": "清水建設",
+      "list": "https://www.shimz.co.jp/company/about/news-release/",
+      "layout": "archive",
+      "sitemap_fallback": true,
+      "enabled": true,
+      "terms": "https://www.shimz.co.jp/guidance/",
+      "supplemental_list": "https://www.shimz.co.jp/theme/civil/",
+      "group": "major"
+    },
+    {
+      "id": "ando",
+      "name": "安藤ハザマ",
+      "list": "https://www.ad-hzm.co.jp/info/{year}/",
+      "layout": "year",
+      "group": "semi",
+      "article_path": "/info/20\\d{2}/(?P<full>20\\d{6})[^/]*\\.(?:php|html?|pdf)",
+      "enabled": true
+    },
+    {
+      "id": "penta",
+      "name": "五洋建設",
+      "list": "https://www.penta-ocean.co.jp/news/{year}/index.html",
+      "layout": "year",
+      "group": "semi",
+      "article_path": "/news/20\\d{2}/(?P<short>\\d{6})[^/]*\\.(?:html?|pdf)",
+      "enabled": true
+    },
+    {
+      "id": "maeda",
+      "name": "前田建設工業",
+      "list": "https://www.maeda.co.jp/news/{year}/",
+      "layout": "year",
+      "group": "semi",
+      "article_path": "/news/(?P<full>20\\d{2}/\\d{2}/\\d{2})/[^/]+\\.html",
+      "enabled": true
+    },
+    {
+      "id": "toda",
+      "name": "戸田建設",
+      "list": "https://www.toda.co.jp/news/",
+      "layout": "archive",
+      "group": "semi",
+      "article_path": "/news/(?P<full>20\\d{6})[^/]*\\.(?:html?|pdf)",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+      "sitemap_fallback": true,
+      "supplemental_list": "https://www.bp.toda.co.jp/news/",
+      "hosts": [
+        "www.bp.toda.co.jp"
+      ]
+    },
+    {
+      "id": "nishimatsu",
+      "name": "西松建設",
+      "list": "https://www.nishimatsu.co.jp/news/{year}/",
+      "layout": "year",
+      "group": "semi",
+      "article_path": "/news/20\\d{2}/(?!index\\.html$)[^/]+\\.html",
+      "enabled": true
+    },
+    {
+      "id": "kumagai",
+      "name": "熊谷組",
+      "list": "https://www.kumagaigumi.co.jp/news/",
+      "layout": "archive",
+      "group": "semi",
+      "article_path": "/news/20\\d{2}/(?:pr|news|info|topic|release)-(?P<full>20\\d{6})-[^/]+\\.html",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+      "sitemap_fallback": true
+    },
+    {
+      "id": "okumura",
+      "name": "奥村組",
+      "list": "https://www.okumuragumi.co.jp/newsrelease/{year}/",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/(?:newsrelease|news_release|news|uploads)/.+\\.(?:html?|pdf)",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+    },
+    {
+      "id": "tokyu",
+      "name": "東急建設",
+      "list": "https://www.tokyu-cnst.co.jp/topics/{year}/",
+      "layout": "fiscal",
+      "group": "mid",
+      "article_path": "/topics/(?:\\d+\\.html|assets/[^/]+\\.pdf)",
+      "enabled": true,
+      "coverage_note": "年度別一覧を使用。検品時は一覧が HTTP 502、個別記事の一部は公式サイトで確認。"
+    },
+    {
+      "id": "tekken",
+      "name": "鉄建建設",
+      "list": "https://www.tekken.co.jp/topics/news/{year}/",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/(?:media/[^/]+\\.pdf|topics/news/(?:20\\d{2}/)?[^/]+\\.html)",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+    },
+    {
+      "id": "toa",
+      "name": "東亜建設工業",
+      "list": "https://www.toa-const.co.jp/company/release/{year}/",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/company/release/20\\d{2}/(?P<short>\\d{6})[^/]*\\.(?:html?|pdf)",
+      "enabled": true
+    },
+    {
+      "id": "waka",
+      "name": "若築建設",
+      "list": "https://www.wakachiku.co.jp/news/",
+      "layout": "archive",
+      "group": "mid",
+      "article_path": "/data/news/\\d+/[^/]+\\.pdf|/news/\\d+/",
+      "enabled": true
+    },
+    {
+      "id": "fudo",
+      "name": "不動テトラ",
+      "list": "https://www.fudotetra.co.jp/news/",
+      "layout": "archive",
+      "group": "mid",
+      "article_path": "/news/[^/]+/(?:index\\.html)?|/news/[^/]+\\.html|/(?:news|uploads)/.+\\.pdf|/news/\\d+/\\d+|/news/\\d+/[\\w-]+|/news/\\d+",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+      "sitemap_fallback": true,
+      "supplemental_list": "https://www.fudotetra-geo.jp/news",
+      "hosts": [
+        "www.fudotetra-geo.jp"
+      ]
+    },
+    {
+      "id": "tobishima",
+      "name": "飛島建設",
+      "list": "https://www.tobishima.co.jp/press_release/{year}.html",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/press_release/(?:detail/20\\d{6}\\d*\\.html|pdf/[^/]+\\.pdf)",
+      "enabled": true,
+      "aliases": [
+        "飛島組"
+      ]
+    },
+    {
+      "id": "aoki",
+      "name": "青木あすなろ建設",
+      "list": "https://www.aaconst.co.jp/news/year/{year}/",
+      "layout": "fiscal",
+      "group": "mid",
+      "article_path": "/news/(?:news-release|information)/(?P<full>20\\d{6})[^/]*/",
+      "enabled": true,
+      "coverage_note": "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+    },
+    {
+      "id": "sato",
+      "name": "佐藤工業",
+      "list": "https://www.satokogyo.co.jp/news/?year={year}",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/news/detail\\.php",
+      "enabled": true,
+      "article_query": "id"
+    },
+    {
+      "id": "zenitaka",
+      "name": "錢高組",
+      "list": "https://www.zenitaka.co.jp/news/{year}/",
+      "layout": "year",
+      "group": "mid",
+      "article_path": "/(?:news/(?:20\\d{2}/)?[^/]+\\.html|reports/achievements/[^/]+\\.html)",
+      "enabled": true,
+      "aliases": [
+        "銭高組"
+      ]
+    }
+  ],
+  "groups": {
+    "major": "スーパーゼネコン",
+    "semi": "準大手ゼネコン",
+    "mid": "中堅ゼネコン"
+  }
+}

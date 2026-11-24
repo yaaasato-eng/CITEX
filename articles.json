@@ -1,0 +1,4634 @@
+{
+  "archive_start": "2023-11-01",
+  "seed_count": 120,
+  "updated_at": "2026-11-22T22:01:23+09:00",
+  "attempted_at": "2026-11-22T22:01:23+09:00",
+  "articles": [
+    {
+      "title": "モーションキャプチャカメラを活用した支保工建込みガイダンスを開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_179.html",
+      "company": "西松建設",
+      "date": "2026-11-20",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "プレキャストPC床版の新接合技術ボルト接合式継手「ボルトグリップジョイント」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/pc_1.html",
+      "company": "西松建設",
+      "date": "2026-11-20",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "佐藤工業のインフラツアー、鬼怒川上流ダム群の見学ツアーを催行しました トピックス 2026年11月17日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=433",
+      "company": "佐藤工業",
+      "date": "2026-11-17",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "プレキャストPC床版の新接合技術嵌合式継手「ツインバージョイント」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/pc.html",
+      "company": "西松建設",
+      "date": "2026-11-16",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「建設フェア四国 2026 in 高松」にグループ３社で共同出展します",
+      "url": "https://www.maeda.co.jp/news/2026/11/16/5829.html",
+      "company": "前田建設工業",
+      "date": "2026-11-16",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "バイオ炭を添加した深層混合処理工法の実証実験を実施",
+      "url": "https://www.penta-ocean.co.jp/news/2026/261113.html",
+      "company": "五洋建設",
+      "date": "2026-11-13",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「第 14 回遠心模型実験技術シンポジウム」を開催～遠心力載荷装置の実験技術向上を目的とした技術者交流会～",
+      "url": "https://www.maeda.co.jp/news/2026/11/13/5828.html",
+      "company": "前田建設工業",
+      "date": "2026-11-13",
+      "tags": [
+        "ダム・河川",
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「建設技術フェア２０２６in中部」にグループ４社にて共同出展します",
+      "url": "https://www.maeda.co.jp/news/2026/11/10/5820.html",
+      "company": "前田建設工業",
+      "date": "2026-11-10",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "第34回土木施工技術報告会を開催 トピックス 2026年11月09日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=431",
+      "company": "佐藤工業",
+      "date": "2026-11-09",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大成建設グループ次世代技術研究所「T-FIELD／SATTE」をバーチャル体験",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261106_11253.html",
+      "company": "大成建設",
+      "date": "2026-11-06",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「大林組×東北大学 次世代建設技術共創研究所」を設置",
+      "url": "https://www.obayashi.co.jp/news/detail/news20261105_1.html",
+      "company": "大林組",
+      "date": "2026-11-05",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "香港理工大学の教育関連施設新築工事を受注",
+      "url": "https://www.penta-ocean.co.jp/news/2026/261031.html",
+      "company": "五洋建設",
+      "date": "2026-10-31",
+      "tags": [
+        "トンネル",
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルにおけるコンクリート吹付け作業の施工性改善を実証",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20261009162728.html",
+      "company": "飛島建設",
+      "date": "2026-10-28",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールドトンネル工事におけるセグメント自動搬送システムを開発～地上から切羽までの全自動搬送を実現し、省人化と安全性向上に貢献～",
+      "url": "https://www.maeda.co.jp/news/2026/10/28/5817.html",
+      "company": "前田建設工業",
+      "date": "2026-10-28",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国土交通省AB-Crossプロジェクト採択技術 天井走行ロボットによる下水道管路の無人点検技術の実証研究を開始～人による調査が困難な大深度下水道管路でNo Entry点検の実現を目指す～",
+      "url": "https://www.maeda.co.jp/news/2026/10/27/5815.html",
+      "company": "前田建設工業",
+      "date": "2026-10-27",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル掘削前に地山の変形を予測し、最適支保を選定する解析技術「Geo-CAST」を開発",
+      "url": "https://www.kajima.co.jp/news/press/202610/27c1-j.html",
+      "company": "鹿島建設",
+      "date": "2026-10-27",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 地山 掘削"
+    },
+    {
+      "title": "2026年度 土木シンポジウム開催",
+      "url": "https://www.nishimatsu.co.jp/news/2026/2026_1.html",
+      "company": "西松建設",
+      "date": "2026-10-23",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "遠隔装薬装置向け自動爆薬供給システムを開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_177.html",
+      "company": "西松建設",
+      "date": "2026-10-21",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大規模土工事現場にて次世代AI仮想信号式制御システムによるアーティキュレートダンプトラック複数台の運行管理を実現",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20261021-004385.html",
+      "company": "熊谷組",
+      "date": "2026-10-21",
+      "tags": [
+        "トンネル",
+        "ダム・河川",
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "下水道の長寿命化に向けた防食・補強技術の研究を本格開始～国土交通省「応用研究（下水道）」採択テーマとして推進～",
+      "url": "https://www.maeda.co.jp/news/2026/10/19/5805.html",
+      "company": "前田建設工業",
+      "date": "2026-10-19",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールド自動化システム「OGENTS®」構成技術の実証を完了",
+      "url": "https://www.obayashi.co.jp/news/detail/news20261019_1.html",
+      "company": "大林組",
+      "date": "2026-10-19",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における「切羽評価システム」を改良",
+      "url": "https://www.kajima.co.jp/news/press/202610/16c1-j.html",
+      "company": "鹿島建設",
+      "date": "2026-10-16",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳 切羽"
+    },
+    {
+      "title": "実物大「トンネル施工技術実証フィールド」を構築",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261016_11211.html",
+      "company": "大成建設",
+      "date": "2026-10-16",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ドローン映像とCIMモデルを活用したXR施工管理支援システムをアップデート",
+      "url": "https://www.nishimatsu.co.jp/news/2026/cimxr.html",
+      "company": "西松建設",
+      "date": "2026-10-15",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ほたて貝殻の粉末を利用した水性ふっ素樹脂塗料「スキャロップペイント®」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20261015_1.html",
+      "company": "大林組",
+      "date": "2026-10-15",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サステナビリティ GREEN×EXPO 2027に向け、全国約90か所の建設現場に横断幕を掲出",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261014_11200.html",
+      "company": "大成建設",
+      "date": "2026-10-14",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ゲリラ豪雨による都市型浸水の短時間予測技術を確立",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261013_11172.html",
+      "company": "大成建設",
+      "date": "2026-10-13",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "PC橋梁工事における柱頭部施工の効率化・安全性向上を実現する新工法「クラッベワーゲン工法™」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20261013_1.html",
+      "company": "大林組",
+      "date": "2026-10-13",
+      "tags": [
+        "橋梁"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "JR関西本線「平野」駅前における複合開発2027年春開業予定の商業施設名称を｢マチノマ平野｣に決定～ライフ、ヤマダデンキが核テナントとして出店～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/jr2027.html",
+      "company": "奥村組",
+      "date": "2026-10-13",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サービス提供終了のお知らせ 『サクシェアPASS』、『ボクセル型インフラデジタルツインの構築』",
+      "url": "https://www.maeda.co.jp/news/2026/10/09/5802.html",
+      "company": "前田建設工業",
+      "date": "2026-10-09",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における吹付けロボットのリモコン走行システム「ヘラクレスRC」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261008_11198.html",
+      "company": "大成建設",
+      "date": "2026-10-08",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "日本初、既存トンネルを活用した地中型データセンターを開発",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20261006-004372.html",
+      "company": "熊谷組",
+      "date": "2026-10-06",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "走行中EVへ非接触で大電力を供給する磁界結合方式無線給電道路システムを開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/261005_11194.html",
+      "company": "大成建設",
+      "date": "2026-10-05",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル地質DX「Remote Geo（リモート・ジオ）」の開発 ～山岳トンネルの切羽観察・評価業務を変革する統合システム～",
+      "url": "https://www.tekken.co.jp/media/20261005_Remote%20Geo.pdf",
+      "company": "鉄建建設",
+      "date": "2026-10-05",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの装薬作業を自動化し、切羽近傍における労働災害リスクを大幅に低減― 脚線付電気雷管を用いた機械装填を実トンネルで実証 ―",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20261002-004368.html",
+      "company": "熊谷組",
+      "date": "2026-10-02",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境配慮コンクリート「T-eConcrete®/セメント・ゼロ型」を国交省直轄の大断面シールドトンネルに初適用",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260930_11086.html",
+      "company": "大成建設",
+      "date": "2026-09-30",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境配慮コンクリート「T-eConcrete®/Carbon-Recycle」が土木学会技術評価証を取得",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260930_11188.html",
+      "company": "大成建設",
+      "date": "2026-09-30",
+      "tags": [
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "挿入型鉄筋定着工法「Post-Head-Anchor®工法」が土木学会技術評価証を取得",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260930_11190.html",
+      "company": "大成建設",
+      "date": "2026-09-30",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初！愛知道路コンセッションで道路遮音壁へのペロブスカイト太陽電池実証を開始 ～道路で発電し道路で活用する「地産地消型道路マネジメント」の実現へ～",
+      "url": "https://www.maeda.co.jp/news/2026/09/30/5796.html",
+      "company": "前田建設工業",
+      "date": "2026-09-30",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの遠隔装薬装置の現場実証を実施",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_174.html",
+      "company": "西松建設",
+      "date": "2026-09-29",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "地盤技術フォーラム2026に出展",
+      "url": "https://www.fudotetra-geo.jp/news/11",
+      "company": "不動テトラ",
+      "date": "2026-09-28",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高精度水中測位システム「AquaMarionette®（アクアマリオネット）」の実証試験を実施～沖合1,800m（水深15m）の海底にて、デジタルツインを活用したクレーン操作による水中構造物の高速・精密設置を実証～",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260925-004360.html",
+      "company": "熊谷組",
+      "date": "2026-09-25",
+      "tags": [
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「丸太打設液状化対策＆カーボンストック（LP-LiC）工法」の対策効果を確認",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20260824145204.html",
+      "company": "飛島建設",
+      "date": "2026-09-10",
+      "tags": [
+        "地盤・基礎",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サステナビリティ 2026.09.09 アフリカ・ウガンダでの地域貢献活動 NPO法人とともに地域の道路を再生",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/20260909-atari-csr.html",
+      "company": "錢高組",
+      "date": "2026-09-09",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "第51回海洋開発シンポジウムにて最優秀ポスター賞を受賞",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260908.html",
+      "company": "東亜建設工業",
+      "date": "2026-09-08",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの切羽無人化に向けた遠隔装薬装置を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_171.html",
+      "company": "西松建設",
+      "date": "2026-09-08",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "鉄筋／配筋BIMシステム「アトアレ（At_ARe）」世界最大級の設計・建設カンファレンス「Autodesk University 2026」で講演 ～設計段階から課題を解決する新たな建築生産モデルを世界へ発信～",
+      "url": "https://www.maeda.co.jp/news/2026/09/07/5793.html",
+      "company": "前田建設工業",
+      "date": "2026-09-07",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "移動式LiDARを用いた切羽計測システム「S-LiRT」を開発・実用化 ～掘削精度の遠隔・リアルタイム計測により安全性と生産性が向上～",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026035.html",
+      "company": "清水建設",
+      "date": "2026-09-02",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "愛媛県総合科学博物館で、 「進化する水陸両用ブルドーザ出前授業」を実施しました",
+      "url": "https://www.aaconst.co.jp/news/news-release/20260901/",
+      "company": "青木あすなろ建設",
+      "date": "2026-09-01",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "データドリブン施工で土木の未来を切り拓く、次世代施工管理ブランド「T-iDRIVE X」を制定",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260831_11157.html",
+      "company": "大成建設",
+      "date": "2026-08-31",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「喜連瓜破橋大規模更新工事」「熊本57号滝室坂トンネル新設工事」「JR御茶ノ水駅改良工事」「信越線新潟駅付近高架化工事」が日建連表彰2026第7回土木賞を受賞",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260831_11166.html",
+      "company": "大成建設",
+      "date": "2026-08-31",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "遠隔装薬システム「CHARGE MASTER」の開発を推進 ～装薬システムの施工性を確認～",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026033.html",
+      "company": "清水建設",
+      "date": "2026-08-28",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "熟練工の「五感」を併せる山岳トンネル切羽AI判定システムを開発「マルチモーダル・ゼロショット切羽AI判定（MZ切羽AI判定）」",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260828-004349.html",
+      "company": "熊谷組",
+      "date": "2026-08-28",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "土木本部フロア模様替え・執務空間リニューアルの第1弾が完了",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260828_11156.html",
+      "company": "大成建設",
+      "date": "2026-08-28",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル発破パターンをAIで全自動判定するシステムを開発「リアルタイム発破パターン自動判定システム（RAPID-BLAST）」",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260828-004350.html",
+      "company": "熊谷組",
+      "date": "2026-08-28",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "令和8年度日本港湾協会論文賞を受賞",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260826.html",
+      "company": "東亜建設工業",
+      "date": "2026-08-26",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "360°カメラ搭載ドローンを活用した管路点検手法「T-pipe vision 360」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260826_11164.html",
+      "company": "大成建設",
+      "date": "2026-08-26",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "連結式半断面床版架設機「どすこいガントリー」を開発～1回あたりの施工範囲を最大約2倍に拡大、床版更新工事の工期を短縮～",
+      "url": "https://www.maeda.co.jp/news/2026/08/21/5789.html",
+      "company": "前田建設工業",
+      "date": "2026-08-21",
+      "tags": [
+        "橋梁",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "車載式トータルステーションによる山岳トンネルの余掘り・アタリ自動測量システムを開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20260817152936.html",
+      "company": "飛島建設",
+      "date": "2026-08-21",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "IPネットワークを活用したトンネル坑内可視化システムを開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20260723095406.html",
+      "company": "飛島建設",
+      "date": "2026-08-20",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "浮体式洋上風力発電向けTLP型ハイブリッド浮体の実海域実証に向けた技術開発を加速",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260817_1.html",
+      "company": "大林組",
+      "date": "2026-08-17",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "リアルタイム吹付け厚さ計測機能を搭載した自動吹付け『コンクリート自動吹付けシステム』を現場導入",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_169.html",
+      "company": "西松建設",
+      "date": "2026-08-06",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネルのインバート施工をリアルタイムに数値評価して可視化",
+      "url": "https://www.kajima.co.jp/news/press/202608/6c1-j.html",
+      "company": "鹿島建設",
+      "date": "2026-08-06",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル インバート"
+    },
+    {
+      "title": "5社共同開発「ヘラクレス-AUTO」、初の現場導入へ～高濃度粉じん環境下でも高品質な自動吹付け施工を実現～",
+      "url": "https://www.maeda.co.jp/news/2026/08/06/5784.html",
+      "company": "前田建設工業",
+      "date": "2026-08-06",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "令和6年能登半島地震被災地における河道閉塞の応急復旧ロボットシステム実証試験を実施",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260805-004327.html",
+      "company": "熊谷組",
+      "date": "2026-08-05",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "3Dプリンターを活用した護岸ブロック施工について",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20260803155741.html",
+      "company": "飛島建設",
+      "date": "2026-08-05",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大成建設グループ次世代技術実証センター/田村「T-FIELD/TAMURA」が本格運用を開始",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260804_11151.html",
+      "company": "大成建設",
+      "date": "2026-08-04",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "下水道管路の調査を効率化する新たな手法を実証～下水道管路の洗浄・点検・診断をワンストップで実施～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/post-77.html",
+      "company": "奥村組",
+      "date": "2026-08-04",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "浮体式洋上風力発電の海上施工方法の確立に向けた技術開発に参画",
+      "url": "https://www.penta-ocean.co.jp/news/2026/260727.html",
+      "company": "五洋建設",
+      "date": "2026-07-27",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "水インフラ施工を革新！水中遠隔操作システム「AquaMarionette®（アクアマリオネット）」の実証試験に成功〜過酷な水中環境を克服する「数cm精度」の絶対座標計測と確実な水中接合を実証〜",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260727-004315.html",
+      "company": "熊谷組",
+      "date": "2026-07-27",
+      "tags": [
+        "ダム・河川",
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "グリーンイノベーション基金事業において人工石灰石を用いたCO2固定コンクリートを実証",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260723_11111.html",
+      "company": "大成建設",
+      "date": "2026-07-23",
+      "tags": [
+        "トンネル",
+        "ダム・河川",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルのデータドリブン型施工を支えるデータ基盤「DataPit」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260722_11108.html",
+      "company": "大成建設",
+      "date": "2026-07-22",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における「コンクリート吹付け自動化システム」が日本建設機械施工大賞で『優秀賞』を受賞",
+      "url": "https://www.maeda.co.jp/news/2026/07/17/5776.html",
+      "company": "前田建設工業",
+      "date": "2026-07-17",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "⻄松建設、⼭岳トンネル施⼯の⾃動運転システムを⾼度化",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_166.html",
+      "company": "西松建設",
+      "date": "2026-07-16",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国立環境研究所・日刊工業新聞社主催 第53回「環境賞」 において環境配慮コンクリート「T-eConcrete®」が優良賞を受賞",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260713_11117.html",
+      "company": "大成建設",
+      "date": "2026-07-13",
+      "tags": [
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2026.07.13 PC下路桁の押出し架設が行われました【北海道新幹線、遊楽部高架橋】",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/-pc.html",
+      "company": "錢高組",
+      "date": "2026-07-13",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "技術研究開発センターの組織改編について",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260709.html",
+      "company": "東亜建設工業",
+      "date": "2026-07-09",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "機械学習AIによるシールドマシン自動運転技術を開発し、現場で実証",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260708_11087.html",
+      "company": "大成建設",
+      "date": "2026-07-08",
+      "tags": [
+        "トンネル",
+        "地盤・基礎",
+        "道路・鉄道",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "無線電子雷管を活用した「完全自動化」機械装填による実現場での発破に成功",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260707-004277.html",
+      "company": "熊谷組",
+      "date": "2026-07-07",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境省のPFOS等対策技術に関する実証事業に、2年連続で採択されました",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/pfos2.html",
+      "company": "奥村組",
+      "date": "2026-06-29",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "舞鶴若狭自動車道 三国岳トンネル工事に「OTISM/LINING®」の技術を集約し実装",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260626_1.html",
+      "company": "大林組",
+      "date": "2026-06-26",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル"
+    },
+    {
+      "title": "相模ダムリニューアル工事において、自動充電ポート付きドローンの遠隔運航によるレベル3.5飛行と点群データ生成の自動化に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260619_2.html",
+      "company": "大林組",
+      "date": "2026-06-19",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "函館港西防波堤カルシア改質土浅場での藻場造成実証研究成果の公表について",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260618.html",
+      "company": "東亜建設工業",
+      "date": "2026-06-18",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "函館港西防波堤カルシア改質土浅場での藻場造成実証研究の紹介",
+      "url": "https://www.penta-ocean.co.jp/news/2026/260618-2.html",
+      "company": "五洋建設",
+      "date": "2026-06-18",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "3D LiDARと高解像度カメラを併用したトンネル切羽監視システムの開発 トピックス 2026年06月18日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=414",
+      "company": "佐藤工業",
+      "date": "2026-06-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における安全性の高い遠隔爆薬装填法を開発",
+      "url": "https://www.kajima.co.jp/news/press/202606/17c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2026-06-17",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳"
+    },
+    {
+      "title": "DC-PC桟橋 沿岸技術研究センターより港湾関連民間技術評価証を取得しました。(pdf 1018KB)",
+      "url": "https://www.wakachiku.co.jp/data/news/214/news.pdf",
+      "company": "若築建設",
+      "date": "2026-06-17",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールド坑内測量システム「わんワン測量™」を開発～4足歩行ロボットで坑内測量の無人化を実現～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/4.html",
+      "company": "奥村組",
+      "date": "2026-06-12",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールド坑内測量システム「わんワン測量™」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/4.html",
+      "company": "西松建設",
+      "date": "2026-06-12",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サステナビリティ 子ども向け職業・技術体験イベント「FUN+TECH DAY!」に出展",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260612_11085.html",
+      "company": "大成建設",
+      "date": "2026-06-12",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル特殊工3人で山岳トンネルを施工、40％省人化！",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026018.html",
+      "company": "清水建設",
+      "date": "2026-06-11",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「せり上げ装置」を採用した新設床版架設装置の開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_164.html",
+      "company": "西松建設",
+      "date": "2026-06-08",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの最適発破パターン自動設計システム「T-iBlast® Designer」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260605_11061.html",
+      "company": "大成建設",
+      "date": "2026-06-05",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳 発破 AI"
+    },
+    {
+      "title": "自社開発した「減揺タンクによる浮遊ケーソンの動揺低減技術」を港湾工事に初めて現場導入",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260602.html",
+      "company": "東亜建設工業",
+      "date": "2026-06-02",
+      "tags": [
+        "地盤・基礎",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「建設技術公開 ＥＥ東北‘２６」にグループ5社で出展します",
+      "url": "https://www.maeda.co.jp/news/2026/05/29/5758.html",
+      "company": "前田建設工業",
+      "date": "2026-05-29",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AIでシールド工事の切羽圧を10秒先まで予想する 「切羽圧制御支援システム」を開発 ～約3,000の特徴量を用いてAIが学習。熟練技術者に依存せず安定掘進を実現～",
+      "url": "https://www.maeda.co.jp/news/2026/05/27/5755.html",
+      "company": "前田建設工業",
+      "date": "2026-05-27",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "秋田県男鹿市、潟上市及び秋田市沖洋上風力発電事業における風車設置工事に使用するSEP船の傭船契約を締結",
+      "url": "https://www.penta-ocean.co.jp/news/2026/260526.html",
+      "company": "五洋建設",
+      "date": "2026-05-26",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "汎用性の高い設計データ処理・管理プラットフォームを開発",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026016.html",
+      "company": "清水建設",
+      "date": "2026-05-26",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大林組、世界初のTLP型ハイブリッド浮体式洋上風力発電施設の基本設計承認を日本海事協会から取得",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260525_2.html",
+      "company": "大林組",
+      "date": "2026-05-25",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初、使用済み風車ブレードのケミカルリサイクル技術を確立",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026009.html",
+      "company": "清水建設",
+      "date": "2026-05-25",
+      "tags": [
+        "環境・脱炭素",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "海上工事の施工計画を最適化する「作業船稼働率算定システム」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260522_11035.html",
+      "company": "大成建設",
+      "date": "2026-05-22",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "グリーンカットAI判定システムを開発～作業の仕上がりをAIが判定し、品質の均質化・高度化を実現～",
+      "url": "https://www.maeda.co.jp/news/2026/05/22/5752.html",
+      "company": "前田建設工業",
+      "date": "2026-05-22",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "絶賛放映中の大成建設グループTVCM「挑戦」篇スペシャルサイトに新コンテンツを公開！",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260521_11039.html",
+      "company": "大成建設",
+      "date": "2026-05-21",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における発破掘削を効率化する「装薬量計画システム」を開発～コンピュータジャンボによる装薬孔の穿孔データからAIで装薬量を計画～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/ai-4.html",
+      "company": "奥村組",
+      "date": "2026-05-21",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設用3Dプリンタを活用した柱・梁・スラブ一体型大型PCa部材の製作・施工技術を実証",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260520_11034.html",
+      "company": "大成建設",
+      "date": "2026-05-20",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設現場のAXを加速させる「AI施工管理システム」を構築",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026015.html",
+      "company": "清水建設",
+      "date": "2026-05-20",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "鋼材に吸着させたドローンから切羽形状データを取得",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026013.html",
+      "company": "清水建設",
+      "date": "2026-05-19",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ダムコンクリート締固め品質管理システムを開発 ～「データによる可視化」により、技術者の経験に頼らない高度な品質管理を実現～",
+      "url": "https://www.maeda.co.jp/news/2026/05/15/5750.html",
+      "company": "前田建設工業",
+      "date": "2026-05-15",
+      "tags": [
+        "ダム・河川",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境配慮型コンクリート「SUSMICS-C」を国土交通省発注工事で初打設",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026012.html",
+      "company": "清水建設",
+      "date": "2026-05-14",
+      "tags": [
+        "ダム・河川",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル向け長距離弾性波探査技術「T-BEP®」を開発し連続運用を現場実証",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260513_11020.html",
+      "company": "大成建設",
+      "date": "2026-05-13",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳 探査 DX"
+    },
+    {
+      "title": "インドネシア・ジャカルタにおいて高速道路コンセッション事業に参画",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260513_1.html",
+      "company": "大林組",
+      "date": "2026-05-13",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境配慮コンクリート｢T-eConcrete®」を用いた鉄道用枕木の試作に成功",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260511_10938.html",
+      "company": "大成建設",
+      "date": "2026-05-11",
+      "tags": [
+        "コンクリート",
+        "道路・鉄道",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ネパール「シンズリ道路」緊急復旧工事を受注",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026010.html",
+      "company": "清水建設",
+      "date": "2026-05-08",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "1.2tの軽量化を実現した5.0㎥軽量水平バケット「軽e-バケット™」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/12t50e-.html",
+      "company": "西松建設",
+      "date": "2026-05-07",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "自然の森を早期に形成する技術「T-GROVEUP」を開発 緑化を低コスト・短期間で実現し、ネイチャーポジティブに貢献",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260427_11017.html",
+      "company": "大成建設",
+      "date": "2026-04-27",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "含水比測定装置『ガンスイチェッカー』を現場導入",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_162.html",
+      "company": "西松建設",
+      "date": "2026-04-24",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "陸上風力アクセス道路のルート設定を自動化・最適化",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026008.html",
+      "company": "清水建設",
+      "date": "2026-04-22",
+      "tags": [
+        "道路・鉄道",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東京大学と「浮体式洋上風力の施工・運用イノベーション社会連携研究部門」の設置契約を締結",
+      "url": "https://www.penta-ocean.co.jp/news/2026/260422.html",
+      "company": "五洋建設",
+      "date": "2026-04-22",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "Zip Infrastructure株式会社への出資および次世代交通システムの実用化に向けた連携協定の締結について",
+      "url": "https://www.nishimatsu.co.jp/news/2026/zip_infrastructure.html",
+      "company": "西松建設",
+      "date": "2026-04-20",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "覆工コンクリートの表面気泡除去装置を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2026/post_161.html",
+      "company": "西松建設",
+      "date": "2026-04-17",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "長崎市との連携協定に基づき端島に研究拠点を建設",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026006.html",
+      "company": "清水建設",
+      "date": "2026-04-16",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "奥村・丸五式拡底杭工法（OMR/B-2）の施工方法を拡充しました～全周回転機を用いた拡底杭の施工方法を追加し、(一財)ベターリビングの技術審査証明を再取得～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/omrb-2-1.html",
+      "company": "奥村組",
+      "date": "2026-04-14",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "遠隔操作システムの機能を向上し、日本～台湾間でのシールドマシンの遠隔操作を実施～臨場感の高いコックピットとセキュアな操作環境～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/post-73.html",
+      "company": "奥村組",
+      "date": "2026-04-13",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの覆工コンクリート作業を自動化し省人化を実現",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260410_1.html",
+      "company": "大林組",
+      "date": "2026-04-10",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳 覆工 覆工コンクリート"
+    },
+    {
+      "title": "沖縄県庁舎における泡消火薬剤流出対策について～当社開発のPFAS処理技術を用いた社会課題への取組～",
+      "url": "https://www.maeda.co.jp/news/2026/04/08/5734.html",
+      "company": "前田建設工業",
+      "date": "2026-04-08",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "浮体式洋上風力の受注に備えアイルランドDOT社とMOU締結",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2026002.html",
+      "company": "清水建設",
+      "date": "2026-04-03",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東ティモールにおける国際空港整備工事を受注",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260331.html",
+      "company": "東亜建設工業",
+      "date": "2026-03-31",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "合成繊維VFC（ESCON-UR）によるコンクリート薄層増厚工法を開発～道路橋床版の大規模修繕に向け施工性を検証し、実用化段階へ～",
+      "url": "https://www.maeda.co.jp/news/2026/03/30/5731.html",
+      "company": "前田建設工業",
+      "date": "2026-03-30",
+      "tags": [
+        "橋梁",
+        "コンクリート",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "DXで土木設計・施工計画を自動化・最適化",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025066.html",
+      "company": "清水建設",
+      "date": "2026-03-30",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "重機搭載カメラを用いたトンネル切羽のモデリングシステム「TufmoS（タフモス）-HMC」を開発",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260327-004091.html",
+      "company": "熊谷組",
+      "date": "2026-03-27",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "CPCC姉川護岸工事にCPコンクリートブロックを敷設 ～CO₂を吸収・固定する根固めブロックにより脱炭素化を推進～",
+      "url": "https://www.aaconst.co.jp/news/news-release/20260326-2/",
+      "company": "青木あすなろ建設",
+      "date": "2026-03-26",
+      "tags": [
+        "ダム・河川",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高速高精度運行を可能とする自動走行技術を開発～アーティキュレートダンプを用いた自動運搬作業の実証～",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260325-004090.html",
+      "company": "熊谷組",
+      "date": "2026-03-25",
+      "tags": [
+        "トンネル",
+        "ダム・河川",
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "免震建物も「CUW工法」が適用可能に",
+      "url": "https://www.nishimatsu.co.jp/news/2026/cuw.html",
+      "company": "西松建設",
+      "date": "2026-03-19",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "自律施工型ブルドーザー「Smart Dozer」が約2,400m2を整地",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025059.html",
+      "company": "清水建設",
+      "date": "2026-03-17",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルで『３ブーム自動装薬専用機』を導入 実証施工開始～『発破パターン作成支援システム』との連携で生産性向上の促進～",
+      "url": "https://www.maeda.co.jp/news/2026/03/16/5730.html",
+      "company": "前田建設工業",
+      "date": "2026-03-16",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "その他 2026.03.13 阪和自動車道 高田山トンネル工事の安全祈願祭が行われました",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/2026-takadayamasikiten.html",
+      "company": "錢高組",
+      "date": "2026-03-13",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「CPCC国内初の現場打ちコンクリートへCO₂固定」 ～日野市と連携し環境配慮型コンクリートで気候変動対策を推進～",
+      "url": "https://www.aaconst.co.jp/news/news-release/20260313/",
+      "company": "青木あすなろ建設",
+      "date": "2026-03-13",
+      "tags": [
+        "コンクリート",
+        "道路・鉄道",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "土木学会インフラメンテナンス優秀論文賞を受賞しました",
+      "url": "https://www.aaconst.co.jp/news/news-release/20260310-1/",
+      "company": "青木あすなろ建設",
+      "date": "2026-03-10",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "日本建設業連合会より2025 年度 海洋安全表彰を受賞しました(pdf 299KB)",
+      "url": "https://www.wakachiku.co.jp/data/news/199/news.pdf",
+      "company": "若築建設",
+      "date": "2026-03-09",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AGF鋼管打設作業において切羽作業範囲の無人化を実現",
+      "url": "https://www.kajima.co.jp/news/press/202603/9c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2026-03-09",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "切羽"
+    },
+    {
+      "title": "既設コンクリートへのCO2固定化技術「DACコート」を実建物に初適用",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025057.html",
+      "company": "清水建設",
+      "date": "2026-03-05",
+      "tags": [
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における『切羽評価システム』を開発",
+      "url": "https://www.kajima.co.jp/news/press/202603/4c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2026-03-04",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳 切羽 AI"
+    },
+    {
+      "title": "山岳トンネル工事での発破作業の完全機械化を実現する『装薬ユニット』を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2026/260219_10933.html",
+      "company": "大成建設",
+      "date": "2026-02-19",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳 装薬 自動化"
+    },
+    {
+      "title": "日本初、建設現場において水素燃料電池搭載油圧ショベルの実証実験を実施",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260216_1.html",
+      "company": "大林組",
+      "date": "2026-02-16",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "既存ストックを活用し超高層の建て替え工期を1年以上短縮",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025038.html",
+      "company": "清水建設",
+      "date": "2026-02-10",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "au Starlink Stationとドローンポートを活用した山岳トンネルの遠隔巡回実証に成功",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025054.html",
+      "company": "清水建設",
+      "date": "2026-02-09",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳 ドローン 遠隔"
+    },
+    {
+      "title": "山岳トンネル工事における装薬時の肌落ち災害を防止 ～装薬孔内が崩れた場合でも対応可能な爆薬遠隔装填装置を開発～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2026/post-70.html",
+      "company": "奥村組",
+      "date": "2026-02-04",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2月14日19時より「未来探訪～世界に誇る日本の技～」前田建設編放送決定のお知らせ",
+      "url": "https://www.maeda.co.jp/news/2026/02/02/5721.html",
+      "company": "前田建設工業",
+      "date": "2026-02-02",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "沖縄県企業局と連携し、PFAS浄化実証試験を開始～当社開発の処理技術を用いた社会課題への取組み～",
+      "url": "https://www.maeda.co.jp/news/2026/01/30/5720.html",
+      "company": "前田建設工業",
+      "date": "2026-01-30",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル覆工等シート接着工に関する機械化施工技術を開発",
+      "url": "https://www.kumagaigumi.co.jp/news/2026/pr-20260130-004035.html",
+      "company": "熊谷組",
+      "date": "2026-01-30",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ポンプ浚渫船「第三亜細亜丸」に国産バイオ燃料を初導入 ～港湾工事の脱炭素化に向けた取組み～",
+      "url": "https://www.toa-const.co.jp/company/release/2026/260129.html",
+      "company": "東亜建設工業",
+      "date": "2026-01-29",
+      "tags": [
+        "港湾・海洋",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "デジタルツイン×AIで重要インフラのひび割れ点検を効率化",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025050.html",
+      "company": "清水建設",
+      "date": "2026-01-28",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "人口が増加するバージニア州アーリントン郡における開発 大規模賃貸住宅開発事業「NOVEL Arlington」に出資参画",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025051.html",
+      "company": "清水建設",
+      "date": "2026-01-27",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "能登半島地震復旧工事で遠隔操作システムによる施工を実証～取手市からバックホウを遠隔操作、作業員の安全性を確認～",
+      "url": "https://www.maeda.co.jp/news/2026/01/26/5716.html",
+      "company": "前田建設工業",
+      "date": "2026-01-26",
+      "tags": [
+        "道路・鉄道",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "連続ベルトコンベヤへの鋼管混入を自動検知するシステムを開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20251222132242.html",
+      "company": "飛島建設",
+      "date": "2026-01-22",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "力触覚技術「リアルハプティクス®」を応用し、切羽直下での火薬装填作業無人化を実現",
+      "url": "https://www.obayashi.co.jp/news/detail/news20260120_1.html",
+      "company": "大林組",
+      "date": "2026-01-20",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "切羽"
+    },
+    {
+      "title": "自動グリーンカットマシンを開発～作業の自動化で生産性向上・担い手不足の解消へ～",
+      "url": "https://www.maeda.co.jp/news/2026/01/19/5712.html",
+      "company": "前田建設工業",
+      "date": "2026-01-19",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "熟練技能を継承する「曲がり削孔AIガイダンスシステム」を開発",
+      "url": "https://www.penta-ocean.co.jp/news/2026/260116.html",
+      "company": "五洋建設",
+      "date": "2026-01-16",
+      "tags": [
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "使用済み太陽光パネルの再利用で、循環型社会の形成に寄与",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2026/2025049.html",
+      "company": "清水建設",
+      "date": "2026-01-09",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "横浜港の脱炭素化に向けて 直立護岸を活用したブルーカーボン創出プロジェクトを本格始動",
+      "url": "https://www.toa-const.co.jp/company/release/2025/251225.html",
+      "company": "東亜建設工業",
+      "date": "2025-12-25",
+      "tags": [
+        "ダム・河川",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "コンクリート床版急速撤去技術「Hydro-Jet RD工法」の馬蹄形ジベル方式への対応について",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20251215150034.html",
+      "company": "飛島建設",
+      "date": "2025-12-19",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "発電しながら斜面を守る「太陽電池防災シート」の実証試験を開始",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/post-68.html",
+      "company": "奥村組",
+      "date": "2025-12-17",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "下水道管路内部のスクリーニング調査をAIで効率化 ～管構造抽出AIと損傷可能性抽出AIを開発～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/ai-aiai.html",
+      "company": "奥村組",
+      "date": "2025-12-15",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "風力発電所の廃棄ブレードを新たな電力資源へ～超小集電技術を活用した「再生循環型の電力活用プロジェクト」が始動～",
+      "url": "https://www.maeda.co.jp/news/2025/12/11/5706.html",
+      "company": "前田建設工業",
+      "date": "2025-12-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルやダムで使用する火薬類のデジタル帳票を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251209_1.html",
+      "company": "大林組",
+      "date": "2025-12-09",
+      "tags": [
+        "トンネル",
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳"
+    },
+    {
+      "title": "2025.12.02 （仮称）岡崎商業施設新築計画 基盤整備工事",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/2025-mopokazaki.html",
+      "company": "錢高組",
+      "date": "2025-12-02",
+      "tags": [
+        "橋梁",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025.12.01 すさみ串本道路 鬮野川（くじのがわ）橋上部工工事 桁が完成しました",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/2025-kujino-ketakansei.html",
+      "company": "錢高組",
+      "date": "2025-12-01",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "熊本市下水管路での新たな劣化診断および点検技術の実証～硫化水素劣化予測診断技術、空洞点検ロボット技術～",
+      "url": "https://www.maeda.co.jp/news/2025/11/28/5705.html",
+      "company": "前田建設工業",
+      "date": "2025-11-28",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "最新生成AIを活用した土木工事の「全体施工計画書作成支援システム」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/251128_10770.html",
+      "company": "大成建設",
+      "date": "2025-11-28",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル工事の連続ベルトコンベヤシステムにベルトファスナーを導入",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/251128_10794.html",
+      "company": "大成建設",
+      "date": "2025-11-28",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "自社開発したシステムを用いた排ガス中のCO2除去の実証試験を実施",
+      "url": "https://www.toa-const.co.jp/company/release/2025/251127.html",
+      "company": "東亜建設工業",
+      "date": "2025-11-27",
+      "tags": [
+        "港湾・海洋",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "R4国道20号新笹子トンネルその1工事に『OTISM/TUNNELING®』の技術を集約し実装",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251126_1.html",
+      "company": "大林組",
+      "date": "2025-11-26",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": "トンネル 山岳 自動化 OTISM"
+    },
+    {
+      "title": "「浚渫シミュレーター（モバイルブラウザ対応版）」をリリース(pdf 297KB)",
+      "url": "https://www.wakachiku.co.jp/data/news/178/news.pdf",
+      "company": "若築建設",
+      "date": "2025-11-25",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設技術展2025関東に出展",
+      "url": "https://www.fudotetra-geo.jp/news/10",
+      "company": "不動テトラ",
+      "date": "2025-11-20",
+      "tags": [
+        "地盤・基礎",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ダム再開発工事にBIM/CIMを活用した3次元流体解析技術を導入",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251119_1.html",
+      "company": "大林組",
+      "date": "2025-11-19",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "『前田建設技術報告集』2025（Vol.60）の発刊について",
+      "url": "https://www.maeda.co.jp/news/2025/11/14/5696.html",
+      "company": "前田建設工業",
+      "date": "2025-11-14",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「エキスパッカーNgc工法 沿岸技術研究センターより港湾関連民間技術評価証を取得」を掲載しました。(pdf 1218KB)",
+      "url": "https://www.wakachiku.co.jp/data/news/174/news.pdf",
+      "company": "若築建設",
+      "date": "2025-11-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「ICT施工対応の水陸両用ブルドーザ工法」がNETISの「活用促進技術」に指定",
+      "url": "https://www.aaconst.co.jp/news/news-release/20251110/",
+      "company": "青木あすなろ建設",
+      "date": "2025-11-10",
+      "tags": [
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "第33回土木施工技術報告会を開催 トピックス 2025年11月06日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=380",
+      "company": "佐藤工業",
+      "date": "2025-11-06",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大型基礎施工船(HLV) および ケーブル敷設船(CLV)の加工開始について",
+      "url": "https://www.penta-ocean.co.jp/news/2025/251106.html",
+      "company": "五洋建設",
+      "date": "2025-11-06",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "フィリピン共和国 マニラ首都圏地下鉄工事105工区を受注",
+      "url": "https://www.nishimatsu.co.jp/news/2025/_105.html",
+      "company": "西松建設",
+      "date": "2025-11-06",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AIによる人検知技術を活用したトンネル切羽作業の安全性向上",
+      "url": "https://www.tokyu-cnst.co.jp/topics/2869.html",
+      "company": "東急建設",
+      "date": "2025-11-06",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "鉄建建設が北海道新幹線工事現場で初のオフサイトPPA導入",
+      "url": "https://www.tekken.co.jp/media/856ffb4d0e49a01475905c9b6c96bf8379f69d0c.pdf",
+      "company": "鉄建建設",
+      "date": "2025-11-05",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "当社が参画するコンソーシアムが、「湯西川ダム新水力発電所設置・運営事業」の事業候補者に特定されました",
+      "url": "https://www.tobishima.co.jp/press_release/pdf/news251028.pdf",
+      "company": "飛島建設",
+      "date": "2025-10-28",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "インドネシア共和国ジャカルタ特別州 大規模下水処理場建設工事第6工区を第1工区に続き受注",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251028_1.html",
+      "company": "大林組",
+      "date": "2025-10-28",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "～建設業の魅力を子どもたちに〜「けんせつ探検隊2025」開催 トピックス 2025年10月21日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=377",
+      "company": "佐藤工業",
+      "date": "2025-10-21",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "10/25（土）テレビ愛知「千原ジュニアの愛知あたりまえワールド」で当社現場が紹介されます！",
+      "url": "https://www.maeda.co.jp/news/2025/10/21/5689.html",
+      "company": "前田建設工業",
+      "date": "2025-10-21",
+      "tags": [
+        "トンネル",
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025年度 土木シンポジウム開催",
+      "url": "https://www.nishimatsu.co.jp/news/2025/2025.html",
+      "company": "西松建設",
+      "date": "2025-10-20",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事の『地山予報システム』に地山の変形予測機能を実装",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2025/2025033.html",
+      "company": "清水建設",
+      "date": "2025-10-16",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳 地山予報 変形"
+    },
+    {
+      "title": "2025.10.16 当社施工の「フロントプレイス千代田一番町」が2025年度グッドデザイン賞を受賞",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/2025-ichibancho-gooddesign.html",
+      "company": "錢高組",
+      "date": "2025-10-16",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "現場の省人化を実現するプレキャストPC床版「SJKSLAB™」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251015_1.html",
+      "company": "大林組",
+      "date": "2025-10-15",
+      "tags": [
+        "橋梁",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "液状化と地盤改良について解説する動画をYoutubeチャンネルにて公開",
+      "url": "https://www.fudotetra-geo.jp/news/8",
+      "company": "不動テトラ",
+      "date": "2025-10-15",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル内空変位自動計測システム「T－レーザートンネルウォッチ」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/251015_10670.html",
+      "company": "大成建設",
+      "date": "2025-10-15",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールドトンネル外周地盤の調査技術「T-iGeoViewer」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/251015_10671.html",
+      "company": "大成建設",
+      "date": "2025-10-15",
+      "tags": [
+        "トンネル",
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「丸太打設軟弱地盤対策＆カーボンストック工法」が2025年度グッドデザイン・ベスト100を受賞",
+      "url": "https://www.tobishima.co.jp/press_release/pdf/news251015.pdf",
+      "company": "飛島建設",
+      "date": "2025-10-15",
+      "tags": [
+        "地盤・基礎",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東亜建設工業と豊田通商、アンゴラ・ナミベ湾の包括開発プロジェクトを完工 ～サコマール港鉄鉱石輸出ターミナル修復およびナミベ港コンテナターミナル拡張事業～",
+      "url": "https://www.toa-const.co.jp/company/release/2025/251014.html",
+      "company": "東亜建設工業",
+      "date": "2025-10-14",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "製造時CO2排出量を67%削減するプレキャストPC床版「クリーンクリート®PC床版」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251010_2.html",
+      "company": "大林組",
+      "date": "2025-10-10",
+      "tags": [
+        "橋梁",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東北自動車道 竜ヶ森トンネル補強工事にワンバインドクロス®を初適用",
+      "url": "https://www.obayashi.co.jp/news/detail/news20251008_2.html",
+      "company": "大林組",
+      "date": "2025-10-08",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 補強 炭素繊維"
+    },
+    {
+      "title": "覆工コンクリート施工における生産性向上技術の現場適用～「自動打設システム」による打設の省力化・省人化と「養生温度制御システム」による脱型前養生の効率化～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/post-66.html",
+      "company": "奥村組",
+      "date": "2025-10-03",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "鋼製支保工建込み時の作業員の切羽立入りをゼロ人にするための取組について",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250926131016.html",
+      "company": "飛島建設",
+      "date": "2025-09-30",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールドトンネル工事用脱炭素型「T-eCon®/裏込め注入材」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250930_10655.html",
+      "company": "大成建設",
+      "date": "2025-09-30",
+      "tags": [
+        "トンネル",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AI技術を活用した山岳トンネル工事向け遠隔監視システムを開発",
+      "url": "https://www.tekken.co.jp/media/0a2cc68187b6b1057aa8ef66c46b6592242e0b2a.pdf",
+      "company": "鉄建建設",
+      "date": "2025-09-26",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "画像認識AIを活用しコンクリート発注数量を自動算出〜建設現場の生産性向上および残コンクリート・戻りコンクリートの低減にむけて～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/ai-3.html",
+      "company": "奥村組",
+      "date": "2025-09-25",
+      "tags": [
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "騒音・粉じんを抑えて環境に配慮した鉄筋ケレン技術 『Laser Surface Refineシステム(LSRシステム)』を研究開発、現場実装",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250804114558.html",
+      "company": "飛島建設",
+      "date": "2025-09-24",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "協調運転制御システム「T-iCraft®」を南摩ダム本体工事に導入",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250924_10623.html",
+      "company": "大成建設",
+      "date": "2025-09-24",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "再生骨材・路盤材の鉄道コンテナによる広域利用試行に協力",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250924.html",
+      "company": "五洋建設",
+      "date": "2025-09-24",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大阪市「平野駅」駅前における複合開発 「(仮称)大阪市平野区複合開発計画」商業施設着工のお知らせ",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/post-64.html",
+      "company": "奥村組",
+      "date": "2025-09-22",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "床版の幅員方向分割取替工事（半断面施工）でプレキャストPC床版の継手工法「Zスパイラル工法」が適用可能に",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/pcz-1.html",
+      "company": "奥村組",
+      "date": "2025-09-18",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル底盤部の変形状況を自動計測する多点連続式変位計「T-Invert Monitor」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250918_10624.html",
+      "company": "大成建設",
+      "date": "2025-09-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "JAPANコンストラクション国際賞を受賞 「地下鉄トムソン線アッパートムソン駅およびトンネル工事(T212工区)」 トピックス 2025年09月18日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=376",
+      "company": "佐藤工業",
+      "date": "2025-09-18",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025 年度「エンジニアリング功労者賞」を受賞しました～バングラデシュ人民共和国ジャムナ鉄道橋が完成～",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250916.html",
+      "company": "東亜建設工業",
+      "date": "2025-09-16",
+      "tags": [
+        "橋梁",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "自動装薬システムを搭載した『３ブーム自動装薬専用機』が完成～ドリルジャンボとの穿孔データ連携により装薬一連作業を自動化～",
+      "url": "https://www.maeda.co.jp/news/2025/09/08/5675.html",
+      "company": "前田建設工業",
+      "date": "2025-09-08",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大阪・関西万博 パナソニックグループパビリオン『ノモの国』の設備機器、建材を大林組技術研究所実験棟にリユース",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250904_1.html",
+      "company": "大林組",
+      "date": "2025-09-04",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ロックボルト打設の機械化施工をトンネル現場に導入～作業時間の短縮、省人化と安全性向上の効果を確認～",
+      "url": "https://www.maeda.co.jp/news/2025/09/04/5674.html",
+      "company": "前田建設工業",
+      "date": "2025-09-04",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル現場に発破パターン作成支援システムを導入～削孔パターンと適正装薬量の算出により余掘り量40％低減～",
+      "url": "https://www.maeda.co.jp/news/2025/09/04/5672.html",
+      "company": "前田建設工業",
+      "date": "2025-09-04",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「全自動鋼製支保工建込みロボット」をトンネル4現場に導入～上下半支保工建込み作業における切羽直下立入”ゼロ”を実現～",
+      "url": "https://www.maeda.co.jp/news/2025/09/04/5673.html",
+      "company": "前田建設工業",
+      "date": "2025-09-04",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "エレクタ付き2ノズル自動吹付け機を実工事に初導入",
+      "url": "https://www.kajima.co.jp/news/press/202509/1c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2025-09-01",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳 吹付 自動化"
+    },
+    {
+      "title": "国内初、建設現場に自動充電ポート付きドローンを1年間常設し、目視外飛行（レベル3）による遠隔自動測量の継続運用に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250829_2.html",
+      "company": "大林組",
+      "date": "2025-08-29",
+      "tags": [
+        "トンネル",
+        "道路・鉄道",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「流域治水オフィシャルサポーター」活動01～流域治水をもっと身近に！～",
+      "url": "https://www.maeda.co.jp/news/2025/08/20/5670.html",
+      "company": "前田建設工業",
+      "date": "2025-08-20",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "西松建設、戸田建設、奥村組の3社で「土木工事プラットフォーム」の第二弾「進捗Pro™」「濁水ウォッチャー™」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2025/3.html",
+      "company": "西松建設",
+      "date": "2025-08-19",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "奥村組、西松建設、戸田建設の3社で「土木工事プラットフォーム」の第二弾「進捗Pro™」「濁水ウォッチャー™」を開発～実現場に適用し、生産性向上・労働時間短縮を実現～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/3-pro.html",
+      "company": "奥村組",
+      "date": "2025-08-19",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "土木工事プラットフォームの第二弾「進捗Pro™」「濁水ウォッチャー™」を開発",
+      "url": "https://www.toda.co.jp/news/20250819_006095.html",
+      "company": "戸田建設",
+      "date": "2025-08-19",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "PFOS及びPFOAを含む環境水の浄化に向けた技術実証試験の実施",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/pfospfoa.html",
+      "company": "奥村組",
+      "date": "2025-08-19",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初 無線電子雷管を用いた機械装填でのトンネル発破に成功",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250818_10601.html",
+      "company": "大成建設",
+      "date": "2025-08-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "CO2を吸収するコンクリート表面被覆シートを開発",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250818.html",
+      "company": "五洋建設",
+      "date": "2025-08-18",
+      "tags": [
+        "コンクリート",
+        "港湾・海洋",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル現場のオートメーション化を推進 ～『シミズ･スマート･トンネル』の要素技術開発が完了～",
+      "url": "https://www.shimz.co.jp/company/about/news-release/2025/2025024.html",
+      "company": "清水建設",
+      "date": "2025-08-08",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 山岳 オートメーション DX"
+    },
+    {
+      "title": "入社8年目の奥村くみ、はじめて現場所長に就任！ 森川葵主演「建設LOVE！奥村くみ」新TVCM公開",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/8-lovetvcm.html",
+      "company": "奥村組",
+      "date": "2025-08-08",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "砂撒船バックホウの遠隔操縦・自動運転システムを海上工事に試験導入",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250807.html",
+      "company": "東亜建設工業",
+      "date": "2025-08-07",
+      "tags": [
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "拡底部の引抜き抵抗力を考慮した場所打ちコンクリート杭工法 『S-HND SK-NEO工法』の適用地盤を拡大 トピックス 2025年08月07日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=372",
+      "company": "佐藤工業",
+      "date": "2025-08-07",
+      "tags": [
+        "地盤・基礎",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サステナビリティ 大阪・関西万博で東海道新幹線再生アルミの魅力やサーキュラーエコノミーを体感できるブース展示を行います",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250807_10586.html",
+      "company": "大成建設",
+      "date": "2025-08-07",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "香港国際空港無人交通車両用道路・駅舎建設工事を受注",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250806.html",
+      "company": "五洋建設",
+      "date": "2025-08-06",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設重機の超遠隔操作に次世代通信技術IOWNとローカル5Gを初適用",
+      "url": "https://www.nishimatsu.co.jp/news/2025/iown_5g.html",
+      "company": "西松建設",
+      "date": "2025-08-01",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025年度 技術報告会と福和伸夫先生(名古屋大学名誉教授/あいち・なごや強靭化共創センター長)の特別講演を開催",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250728093319.html",
+      "company": "飛島建設",
+      "date": "2025-07-28",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "新展開「超高強度ＲＣセグメント」技術審査証明を取得",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_151.html",
+      "company": "西松建設",
+      "date": "2025-07-23",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "デジタルツインプラットフォーム「サイバー建設現場」を開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250722163255.html",
+      "company": "飛島建設",
+      "date": "2025-07-23",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025.07.18 「霞ヶ浦導水石岡トンネル（第4工区）新設工事」水中到達施工によりシールドマシンが美野里立坑に到達しました",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/4.html",
+      "company": "錢高組",
+      "date": "2025-07-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "土木学会「海洋開発特別功労賞」を受賞しました",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250717.html",
+      "company": "東亜建設工業",
+      "date": "2025-07-17",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "超高強度繊維補強コンクリートPC床版を国道153号萱の橋橋梁補修工事に適用",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250711_10561.html",
+      "company": "大成建設",
+      "date": "2025-07-11",
+      "tags": [
+        "橋梁",
+        "コンクリート",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シンガポール トゥアス北部地区で大型埋立工事を受注",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250711.html",
+      "company": "五洋建設",
+      "date": "2025-07-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "『ACe 建設業界』2025年7月号の特集企画『推しゲン』に当社担当工事が掲載されました",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250711.html",
+      "company": "東亜建設工業",
+      "date": "2025-07-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「木材を用いた大規模炭素貯蔵技術」を開発し施工実験により実現性を検証",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250709103417.html",
+      "company": "飛島建設",
+      "date": "2025-07-10",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "広域通信型 落水者支援システムを開発",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250708_01.html",
+      "company": "東亜建設工業",
+      "date": "2025-07-08",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "サステナビリティ 国内初、電動小型杭打機を用いて柱状地盤改良工事を実施",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250702_10559.html",
+      "company": "大成建設",
+      "date": "2025-07-02",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2025.07.02 「福岡導水施設地震対策事業 ２号トンネル併設水路」が貫通しました",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/post-18.html",
+      "company": "錢高組",
+      "date": "2025-07-02",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "当社技術顧問が令和6年度土木学会賞「研究業績賞」を受賞",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250701.html",
+      "company": "東亜建設工業",
+      "date": "2025-07-01",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「低炭素型自己充塡コンクリートによる覆工の省力化施工」が 土木学会技術賞を受賞 トピックス 2025年07月01日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=373",
+      "company": "佐藤工業",
+      "date": "2025-07-01",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "整備新幹線のトンネル路盤鉄筋コンクリート施工の安全性および生産性の向上を実現する「路鉄用ディストリビュータ打設システム」を開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250623153916.html",
+      "company": "飛島建設",
+      "date": "2025-06-25",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルデジタルツインプラットフォームの構築",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_150.html",
+      "company": "西松建設",
+      "date": "2025-06-25",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル掘削作業の進捗状況に合わせて複数工事設備の運転制御を最適化",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250623_10535.html",
+      "company": "大成建設",
+      "date": "2025-06-23",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「地下の森林」*¹は長期間劣化しないことを実証",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250620110023.html",
+      "company": "飛島建設",
+      "date": "2025-06-23",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "現場の通信環境構築とデータ管理を効率化できる「PicoNect」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2025/piconect.html",
+      "company": "西松建設",
+      "date": "2025-06-20",
+      "tags": [
+        "トンネル",
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2車線規模のプレキャスト覆工の実大施工実験に成功",
+      "url": "https://www.nishimatsu.co.jp/news/2025/_2.html",
+      "company": "西松建設",
+      "date": "2025-06-19",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "リアルタイム吹付け厚さ計測を可能にした自動吹付け技術『コンクリート吹付け自動化システム』を確立",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_148.html",
+      "company": "西松建設",
+      "date": "2025-06-10",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シンガポール チャンギ空港第５ターミナル ターミナル連絡トンネル工事を受注",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250610.html",
+      "company": "五洋建設",
+      "date": "2025-06-10",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初 道路トンネル工事で無線電子雷管を用いた試験発破に成功",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250530_10478.html",
+      "company": "大成建設",
+      "date": "2025-05-30",
+      "tags": [
+        "トンネル",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "豪雨と猛暑の影響を軽減する多機能舗装「ハイドロペイブ®」を開発、神戸市と共同で公道実証試験を実施",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250528_1.html",
+      "company": "大林組",
+      "date": "2025-05-28",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "｢T-eConcrete®/Carbon-Recycle｣を高速道路構造物の場所打ち施工に国内初適用",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250522_10471.html",
+      "company": "大成建設",
+      "date": "2025-05-22",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高機能化舗装「マルチペイブ™」を開発し、実物大モックアップを構築",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250520_2.html",
+      "company": "大林組",
+      "date": "2025-05-20",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "粉体量が多いカーボンネガティブコンクリートのポンプ圧送施工を実現",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_146.html",
+      "company": "西松建設",
+      "date": "2025-05-14",
+      "tags": [
+        "コンクリート",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "金沢駅西口エリアでの音楽ライブホールの建設計画について",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_145.html",
+      "company": "西松建設",
+      "date": "2025-05-08",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "再生コンクリート「リ・バースコンクリート」を移動式プラントで製造～運搬コストの低減や製造ロスの削減が可能に～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/post-61.html",
+      "company": "奥村組",
+      "date": "2025-05-07",
+      "tags": [
+        "コンクリート",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "地震と降雨による複合災害を再現する実験装置を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250424_1.html",
+      "company": "大林組",
+      "date": "2025-04-24",
+      "tags": [
+        "地盤・基礎",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「スマートバッチャープラント®」が国土交通省の新技術活用システム「NETIS」の「令和７年度推奨技術」に選定されました",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20250417133036.html",
+      "company": "飛島建設",
+      "date": "2025-04-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "VRを活用した切羽観察システム「T-KIRIHA VR®」を機能拡張",
+      "url": "https://www.taisei.co.jp/about_us/wn/2025/250417_10440.html",
+      "company": "大成建設",
+      "date": "2025-04-17",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ローカル5Gが支える新丸山ダム建設、ケーブルクレーンの自動・自律運転に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250416_1.html",
+      "company": "大林組",
+      "date": "2025-04-16",
+      "tags": [
+        "ダム・河川",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "パネル貼り付け作業を機械化する「パネルライニング台車」を開発、実工事へ導入～導水路トンネルリニューアル工事における労働投入量を削減～",
+      "url": "https://www.maeda.co.jp/news/2025/04/15/5639.html",
+      "company": "前田建設工業",
+      "date": "2025-04-15",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル補修におけるサポートライニング工法用ダクタル板把持装置の開発",
+      "url": "https://www.kumagaigumi.co.jp/news/2025/pr-20250410-003761.html",
+      "company": "熊谷組",
+      "date": "2025-04-10",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "低炭素型の高性能セメント複合材料「ユニバーサルクリート®GX」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250408_1.html",
+      "company": "大林組",
+      "date": "2025-04-08",
+      "tags": [
+        "コンクリート",
+        "道路・鉄道",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル工事における余掘り量を最適化するアプリを共同開発",
+      "url": "https://www.aaconst.co.jp/news/news-release/20250331/",
+      "company": "青木あすなろ建設",
+      "date": "2025-03-31",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大型基礎施工船（HLV）の建造資金調達について",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250328.html",
+      "company": "五洋建設",
+      "date": "2025-03-28",
+      "tags": [
+        "道路・鉄道",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ダムコンクリートの打継ぎ処理を自動化するマシンを開発",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_143.html",
+      "company": "西松建設",
+      "date": "2025-03-28",
+      "tags": [
+        "ダム・河川",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "系統用蓄電池事業の開始に向け北海道札幌蓄電合同会社を設立、 安全祈願祭を開催 ～2050年カーボンニュートラルの実現に向けて～",
+      "url": "https://www.aaconst.co.jp/news/news-release/20250327/",
+      "company": "青木あすなろ建設",
+      "date": "2025-03-27",
+      "tags": [
+        "道路・鉄道",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "全自動トンネル覆工コンクリート打設システムを実工事に初導入",
+      "url": "https://www.kajima.co.jp/news/press/202503/27c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2025-03-27",
+      "tags": [
+        "トンネル",
+        "コンクリート",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 覆工 全自動"
+    },
+    {
+      "title": "大林組とトヨタ自動車未来創生センター共同開発の施工シミュレータ「GEN-VIR®」、姿勢生成・筋疲労分析機能を用いて作業員の負担軽減につながる作業改善を実現",
+      "url": "https://www.obayashi.co.jp/news/detail/news20250324_1.html",
+      "company": "大林組",
+      "date": "2025-03-24",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "『グラブ浚渫船「若鷲丸」浚渫シミュレーター』をリリース(pdf 495KB)",
+      "url": "https://www.wakachiku.co.jp/data/news/154/news.pdf",
+      "company": "若築建設",
+      "date": "2025-03-24",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ずり出し作業に必要な複数重機を自動運転化",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_142.html",
+      "company": "西松建設",
+      "date": "2025-03-21",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "横浜港の脱炭素化に向けて直立護岸を活用したブルーカーボン創出プロジェクトを開始",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250318.html",
+      "company": "東亜建設工業",
+      "date": "2025-03-18",
+      "tags": [
+        "ダム・河川",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「施工影響XRウォッチャー」を開発～施工進捗と周辺地盤への影響をリアルタイムに可視化し、公衆災害の発生を防止～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2025/xr.html",
+      "company": "奥村組",
+      "date": "2025-03-18",
+      "tags": [
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "河川監視に自立電源OKIPPAカメラを導入",
+      "url": "https://www.nishimatsu.co.jp/news/2025/okippa_1.html",
+      "company": "西松建設",
+      "date": "2025-03-14",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "3月15日NHKBS「解体キングダム」に当社現場が登場",
+      "url": "https://www.maeda.co.jp/news/2025/03/13/5633.html",
+      "company": "前田建設工業",
+      "date": "2025-03-13",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "再生覆工のプレキャスト化で高速施工を実現",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_141.html",
+      "company": "西松建設",
+      "date": "2025-03-10",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "-未来の水中工事- 2025年日本国際博覧会の展示プレイスを初公開",
+      "url": "https://www.aaconst.co.jp/news/news-release/20250310/",
+      "company": "青木あすなろ建設",
+      "date": "2025-03-10",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "バングラデシュで大型港湾工事を受注",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250307.html",
+      "company": "五洋建設",
+      "date": "2025-03-07",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "バングラデシュで大型港湾工事を受注",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250307.html",
+      "company": "東亜建設工業",
+      "date": "2025-03-07",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "積込み機能付きAI-ロードヘッダの開発",
+      "url": "https://www.ad-hzm.co.jp/info/2025/20250228.php",
+      "company": "安藤ハザマ",
+      "date": "2025-02-28",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "下水道事業におけるモニタリング機関のあり方検討会「報告書」公開について",
+      "url": "https://www.maeda.co.jp/news/2025/02/27/5630.html",
+      "company": "前田建設工業",
+      "date": "2025-02-27",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "床板撤去時間の高速化と省力化施工を実現",
+      "url": "https://www.nishimatsu.co.jp/news/2025/post_140.html",
+      "company": "西松建設",
+      "date": "2025-02-21",
+      "tags": [
+        "橋梁",
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における吹付けコンクリートの自動施工技術を現場適用",
+      "url": "https://www.ad-hzm.co.jp/info/2025/20250206_01.php",
+      "company": "安藤ハザマ",
+      "date": "2025-02-06",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "洋上風力建設に用いる大型作業船の共同保有について",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250127-1.html",
+      "company": "五洋建設",
+      "date": "2025-01-27",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "大型基礎施工船（HLV : Heavy Lift Vessel）の建造について",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250127.html",
+      "company": "五洋建設",
+      "date": "2025-01-27",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "浮体式洋上風力建設システム技術研究組合（FLOWCON）への参画について",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250120.html",
+      "company": "東亜建設工業",
+      "date": "2025-01-20",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "浮体式洋上風力建設システム技術研究組合への参画について",
+      "url": "https://www.penta-ocean.co.jp/news/2025/250120.html",
+      "company": "五洋建設",
+      "date": "2025-01-20",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "世界初の音速自動補正機能を有する高精度水中測位システムAquaMarionette®の精度を水中マルチパス環境下で実証－水中デジタルツインを実現―",
+      "url": "https://www.kumagaigumi.co.jp/news/2025/pr-20250115-003718.html",
+      "company": "熊谷組",
+      "date": "2025-01-15",
+      "tags": [
+        "ダム・河川",
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東亜建設工業と三和エナジーがバイオ燃料の製造・販売に向けて共同検討～異業種連携により、燃料分野の脱炭素化の促進を目指す～",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250114.html",
+      "company": "東亜建設工業",
+      "date": "2025-01-14",
+      "tags": [
+        "環境・脱炭素",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東亜建設工業とフジトランス コーポレーションが伊勢湾内における藻場造成事業でコラボレーション",
+      "url": "https://www.toa-const.co.jp/company/release/2025/250108.html",
+      "company": "東亜建設工業",
+      "date": "2025-01-08",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "プレキャストPC床版の新しい継手工法「Zスパイラル工法」の施工性確認試験を実施～接合部の配筋にかかる作業時間を75％短縮～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/pcz75.html",
+      "company": "奥村組",
+      "date": "2024-12-12",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "洋上風力作業船の設備投資に関するお知らせ",
+      "url": "https://www.penta-ocean.co.jp/news/2024/241210-1.html",
+      "company": "五洋建設",
+      "date": "2024-12-10",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「自動火薬装填システム」でトンネル切羽発破に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20241202_1.html",
+      "company": "大林組",
+      "date": "2024-12-02",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 切羽 発破"
+    },
+    {
+      "title": "鳥海ダム本体建設工事のホームページを開設",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_133.html",
+      "company": "西松建設",
+      "date": "2024-11-28",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設技術フェア2024in中部に出展しています",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20241128144118.html",
+      "company": "飛島建設",
+      "date": "2024-11-28",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "場所打ちコンクリート杭への高強度鉄筋の適用手法を確立～設計手法に関して評定を取得～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/post-57.html",
+      "company": "奥村組",
+      "date": "2024-11-26",
+      "tags": [
+        "地盤・基礎",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "第３２回土木施工技術報告会を開催 トピックス 2024年11月07日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=353",
+      "company": "佐藤工業",
+      "date": "2024-11-07",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ジオポリマーコンクリート「セメノン®」を用いたセグメントをシールド工事に適用",
+      "url": "https://www.tekken.co.jp/media/2e4861be4fea1e9a3dace30e51d37ffb6cf8974a.pdf",
+      "company": "鉄建建設",
+      "date": "2024-11-05",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024.11.05 すさみ串本道路 鬮野川（くじのがわ）橋上部工工事 ー柱頭部の施工ー",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/post-10.html",
+      "company": "錢高組",
+      "date": "2024-11-05",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024年度 土木シンポジウム開催",
+      "url": "https://www.nishimatsu.co.jp/news/2024/2024_1.html",
+      "company": "西松建設",
+      "date": "2024-11-01",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "奥村・丸五式引抜き抵抗杭工法（OMR/B-2）の適用地盤を拡充しました ～適用地盤に砂岩、泥岩等を追加し（一財）ベターリビングの評定を取得～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/omrb-2.html",
+      "company": "奥村組",
+      "date": "2024-10-24",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "地盤技術フォーラム2024に出展しました",
+      "url": "https://www.fudotetra-geo.jp/news/3",
+      "company": "不動テトラ",
+      "date": "2024-10-22",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "東亜建設工業と中国木材が森林クレジットの創出でコラボレーション～適切な森林管理・経営の推進でSDGs達成に向けた新たな一歩～",
+      "url": "https://www.toa-const.co.jp/company/release/2024/241009.html",
+      "company": "東亜建設工業",
+      "date": "2024-10-09",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルにおける覆工コンクリートの自動打設システムを開発 ～コンクリート圧力計測に基づく打設高さモニタリングによる自動締固め、圧送ポンプ制御～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/post-56.html",
+      "company": "奥村組",
+      "date": "2024-10-07",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "1車線規制で床版取替が可能なプレキャストPC床版の幅員方向接合技術を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240926_10146.html",
+      "company": "大成建設",
+      "date": "2024-09-26",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高速道路リニューアル時の工期短縮と疲労耐久性向上を実現する新床版継手技術「ESCON TPジョイント」を開発 トピックス 2024年09月25日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=345",
+      "company": "佐藤工業",
+      "date": "2024-09-25",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高速道路リニューアル時の工期短縮と疲労耐久性向上を実現する新床版継手技術「ESCON TPジョイント」を開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240924140254.html",
+      "company": "飛島建設",
+      "date": "2024-09-25",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高速道路リニューアル時の工期短縮と疲労耐久性向上を実現する 新床版継手技術「ESCON TPジョイント」を開発",
+      "url": "https://www.maeda.co.jp/news/2024/09/25/5538.html",
+      "company": "前田建設工業",
+      "date": "2024-09-25",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "有機フッ素化合物（PFAS）による地下水・土壌汚染浄化技術の開発 ～超強力酸化触媒による分解に成功～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/content.html",
+      "company": "奥村組",
+      "date": "2024-09-20",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "〔トンネル発破掘削の自動化技術〕発破パターンの自動化システムを開発し、実工事に導入 トピックス 2024年09月20日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=346",
+      "company": "佐藤工業",
+      "date": "2024-09-20",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ステレオカメラを用いたトンネル切羽監視システムの開発 トピックス 2024年09月12日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=344",
+      "company": "佐藤工業",
+      "date": "2024-09-12",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "4次元モデルとWEBカメラのモニタリングを組み合わせたデジタルツインシステムを開発 ～デジタル空間に過去・現在・未来の現場を再現～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/4web.html",
+      "company": "奥村組",
+      "date": "2024-09-06",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024.09.02 北海道新幹線の建設工事が進んでいます【遊楽部高架橋】",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/yurappu-sekoureport01.html",
+      "company": "錢高組",
+      "date": "2024-09-02",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初、洋上風力発電施設用TLP型浮体を実海域に設置",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240827_1.html",
+      "company": "大林組",
+      "date": "2024-08-27",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル側壁部のコンクリート吹付け厚計測システム｢Ｔ－ショットマーカー®アーチ｣を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240820_10066.html",
+      "company": "大成建設",
+      "date": "2024-08-20",
+      "tags": [
+        "トンネル",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "高速道路のり面補修工事にて水素活用に関する実証実験を実施",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240809_1.html",
+      "company": "大林組",
+      "date": "2024-08-09",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "『自己充塡覆工構築システム』を改良し、実工事に導入 トピックス 2024年08月05日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=341",
+      "company": "佐藤工業",
+      "date": "2024-08-05",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "貝殻で補強する「粘り強い河川堤防」 実規模法面で越水時侵食抑制効果を検証",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240725142226.html",
+      "company": "飛島建設",
+      "date": "2024-07-31",
+      "tags": [
+        "ダム・河川",
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネルの自動化施工システム「A 4 CSEL for Tunnel」が完成！",
+      "url": "https://www.kajima.co.jp/news/press/202407/31c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2024-07-31",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳"
+    },
+    {
+      "title": "「下水道展'24 東京」に出展しています",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240730150404.html",
+      "company": "飛島建設",
+      "date": "2024-07-30",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ブレーカに搭載した3Dレーザスキャナで切羽のアタリ判定を自動化",
+      "url": "https://www.kajima.co.jp/news/press/202407/23c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2024-07-23",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "切羽"
+    },
+    {
+      "title": "令和5年度土木学会賞 技術賞を受賞",
+      "url": "https://www.penta-ocean.co.jp/news/2024/240717.html",
+      "company": "五洋建設",
+      "date": "2024-07-17",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "水力発電施設の導水路トンネルリニューアル工事向け 「吹付け・左官自動施工台車」を開発、実用性を確認～1月27日 NHK総合テレビ「おはよう日本」にて紹介！～",
+      "url": "https://www.maeda.co.jp/news/2024/07/12/5522.html",
+      "company": "前田建設工業",
+      "date": "2024-07-12",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "船舶航行監視システム「COS-NAVI」を開発",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240711.html",
+      "company": "東亜建設工業",
+      "date": "2024-07-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事における「ずり出し」を自動化・無人化",
+      "url": "https://www.kajima.co.jp/news/press/202407/10c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2024-07-10",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳 ずり"
+    },
+    {
+      "title": "プロジェクションマッピングを活用したトンネル施工管理技術 「インバートプロジェクションマッピングシステム」 ～6月19日 NHK総合テレビ「おはよう日本」にて紹介！～",
+      "url": "https://www.maeda.co.jp/news/2024/07/08/5521.html",
+      "company": "前田建設工業",
+      "date": "2024-07-08",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "プレキャスト上部工の新しい杭頭接合技術の技術評価証を取得",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240708.html",
+      "company": "東亜建設工業",
+      "date": "2024-07-08",
+      "tags": [
+        "コンクリート",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "プレキャストPC床版の新しい継手工法「Zスパイラル工法」を開発 ～十分な疲労耐久性を確保しつつ作業時間の短縮を実現～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/pcz.html",
+      "company": "奥村組",
+      "date": "2024-07-08",
+      "tags": [
+        "橋梁",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シンガポール共和国テコン地区埋立工事（その４）を受注",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240702.html",
+      "company": "東亜建設工業",
+      "date": "2024-07-02",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024.07.01 霞ヶ浦導水石岡トンネル第4工区の安全祈願式が行われました",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/ishioka-hassinshiki.html",
+      "company": "錢高組",
+      "date": "2024-07-01",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シンガポール地下鉄・クロスアイランド線建設工事ＣＲ210工区を受注",
+      "url": "https://www.nishimatsu.co.jp/news/2024/210.html",
+      "company": "西松建設",
+      "date": "2024-06-21",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設用3Dプリンターにて作製した底型枠を用いた上部工コンクリート打設に成功",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240618.html",
+      "company": "東亜建設工業",
+      "date": "2024-06-18",
+      "tags": [
+        "ダム・河川",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ジェネレーティブデザインによるトンネル仮設備配置計画の効率化と最適化",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_123.html",
+      "company": "西松建設",
+      "date": "2024-06-18",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "NEDOグリーンイノベーション基金事業 浮体式洋上風力実証事業の採択決定について",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240611.html",
+      "company": "東亜建設工業",
+      "date": "2024-06-11",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初！山岳トンネル工事で2ノズル吹付け機を自動化",
+      "url": "https://www.kajima.co.jp/news/press/202406/10c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2024-06-10",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳"
+    },
+    {
+      "title": "新たな液状化解析ツールを開発しTDAPⅢに実装",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240605_10010.html",
+      "company": "大成建設",
+      "date": "2024-06-05",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024.06.05 「(仮称)三井アウトレットパーク 岡崎」建築工事が着工",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/okazaki-01.html",
+      "company": "錢高組",
+      "date": "2024-06-05",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル坑内の掘削出来形3次元計測システム「T-ファストスキャン」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240603_10009.html",
+      "company": "大成建設",
+      "date": "2024-06-03",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "離着水・海上航行可能な海洋観測ドローンを開発",
+      "url": "https://www.penta-ocean.co.jp/news/2024/240531.html",
+      "company": "五洋建設",
+      "date": "2024-05-31",
+      "tags": [
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "３D-LiDARドローンによるリアルタイム船舶土量検収システムを開発",
+      "url": "https://www.penta-ocean.co.jp/news/2024/240524.html",
+      "company": "五洋建設",
+      "date": "2024-05-24",
+      "tags": [
+        "港湾・海洋",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「技術研究開発センター」Ⅱ期整備が完成",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240524_01.html",
+      "company": "東亜建設工業",
+      "date": "2024-05-24",
+      "tags": [
+        "地盤・基礎",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "スライド型枠を利用した「Smart Lining System™ Type 2」を開発",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240522073218.html",
+      "company": "飛島建設",
+      "date": "2024-05-22",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "超音波ソナーを活用したシールドマシン背面計測システムの開発～シールド掘進しながら掘削断面を連続測定～",
+      "url": "https://www.tekken.co.jp/media/7f6d20f54673cfacaa5bbb4450f6dd40ef19c447.pdf",
+      "company": "鉄建建設",
+      "date": "2024-05-21",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2024.05.16 「霞ヶ浦導水石岡トンネル」のシールドマシンに小学生のイラストが描かれます",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/ishioka-illust.html",
+      "company": "錢高組",
+      "date": "2024-05-16",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "飛島建設とナイスが非住宅建築分野の木造・木質化取り組み拡大に向けて合弁会社設立に関する契約を締結",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240513172211.html",
+      "company": "飛島建設",
+      "date": "2024-05-15",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事での発破掘削を震源とする長距離地質探査法をスマート化",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240507_9987.html",
+      "company": "大成建設",
+      "date": "2024-05-07",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "奥村くみが建設現場に帰ってきた！？ 森川葵主演「建設LOVE！奥村くみ」新CM公開。",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/-lovecm.html",
+      "company": "奥村組",
+      "date": "2024-05-01",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "国内初！現場製造式爆薬によるトンネル全断面発破を実現",
+      "url": "https://www.kajima.co.jp/news/press/202404/25c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2024-04-25",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": "トンネル 発破"
+    },
+    {
+      "title": "地盤改良現場の無人化施工を実証",
+      "url": "https://www.fudotetra-geo.jp/news/2",
+      "company": "不動テトラ",
+      "date": "2024-04-23",
+      "tags": [
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "セメントを使用しない地盤改良材を実用化",
+      "url": "https://www.taisei.co.jp/about_us/wn/2024/240418_9966.html",
+      "company": "大成建設",
+      "date": "2024-04-18",
+      "tags": [
+        "地盤・基礎",
+        "コンクリート"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "新丸山ダム建設工事における盛土工事で「統合施工管理システム」の実証施工に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240411_2.html",
+      "company": "大林組",
+      "date": "2024-04-11",
+      "tags": [
+        "ダム・河川"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "山岳トンネル工事の安全対策として「肌落ち監視システム」を開発 ～切羽画像から肌落ちの予兆をAIで検知～",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/ai-2.html",
+      "company": "奥村組",
+      "date": "2024-04-09",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AIによる配筋検査サービス（AIカメラと専用アプリ）を2024年4月から導入開始",
+      "url": "https://www.penta-ocean.co.jp/news/2024/240408.html",
+      "company": "五洋建設",
+      "date": "2024-04-08",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "AIによる配筋検査サービスを2024年4月から導入開始",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240405162224.html",
+      "company": "飛島建設",
+      "date": "2024-04-08",
+      "tags": [
+        "施工自動化・DX",
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "シールド工事へのMAIOSS-Ⅱ導入について～シールドDXに向けた基盤を整備～",
+      "url": "https://www.maeda.co.jp/news/2024/03/29/5488.html",
+      "company": "前田建設工業",
+      "date": "2024-03-29",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "西松建設、戸田建設、奥村組３社で「土木工事プラットフォーム」を開発",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_115.html",
+      "company": "西松建設",
+      "date": "2024-03-28",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "奥村組、西松建設、戸田建設３社で「土木工事プラットフォーム」を開発 -システム共同利用、データ連携による生産性向上・労働時間短縮を目指す-",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/----1.html",
+      "company": "奥村組",
+      "date": "2024-03-28",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "地中連続壁工法における安定液の品質管理自動計測システムの開発",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_112.html",
+      "company": "西松建設",
+      "date": "2024-03-22",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設振動対策技術「防振堤」の改良と適用拡大",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20240315150143.html",
+      "company": "飛島建設",
+      "date": "2024-03-19",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "令和５年度インフラDX大賞 優秀賞を受賞",
+      "url": "https://www.penta-ocean.co.jp/news/2024/240318.html",
+      "company": "五洋建設",
+      "date": "2024-03-18",
+      "tags": [
+        "橋梁",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「いわき市下水道管路施設包括的管理業務」(福島県いわき市)を 受託しました",
+      "url": "https://www.okumuragumi.co.jp/newsrelease/2024/post-49.html",
+      "company": "奥村組",
+      "date": "2024-03-18",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "製造時のCO2排出量を約60％削減した低炭素型地盤改良用グラウト材「Infill Hard Geo™」を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240314_1.html",
+      "company": "大林組",
+      "date": "2024-03-14",
+      "tags": [
+        "地盤・基礎",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ホイールローダ遠隔操作システムを山岳トンネル工事の実施工へ試験導入",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_107.html",
+      "company": "西松建設",
+      "date": "2024-03-01",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "トンネル覆工裏込め注入工法「スペースパック工法®」で使用するカーボンネガティブタイプの可塑性注入材を開発",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240207_1.html",
+      "company": "大林組",
+      "date": "2024-02-07",
+      "tags": [
+        "トンネル",
+        "環境・脱炭素"
+      ],
+      "keywords": "トンネル 覆工"
+    },
+    {
+      "title": "山岳トンネル工事における日常的な計測作業の省力化・安全性に貢献",
+      "url": "https://www.nishimatsu.co.jp/news/2024/post_104.html",
+      "company": "西松建設",
+      "date": "2024-02-05",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "ケニア モンバサ経済特区開発計画（第一期）港湾工事を受注",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240205.html",
+      "company": "東亜建設工業",
+      "date": "2024-02-05",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "～臨海部の現場で発生する細粒分を多く含む土など多様な土に幅広く対応～AIを活用した土の粒度分布判定システム「ASYST」",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240130.html",
+      "company": "東亜建設工業",
+      "date": "2024-01-30",
+      "tags": [
+        "地盤・基礎",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "「 洋上風力発電低コスト施工技術開発（施工技術実証）」NEDO助成事業「着床式基礎における洗掘防止工の低コスト構造及び施工方法の技術開発」研究着手",
+      "url": "https://www.toa-const.co.jp/company/release/2024/240126.html",
+      "company": "東亜建設工業",
+      "date": "2024-01-26",
+      "tags": [
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "鉄道による水素輸送で輸送時のCO2排出量を8割以上削減",
+      "url": "https://www.obayashi.co.jp/news/detail/news20240115_1.html",
+      "company": "大林組",
+      "date": "2024-01-15",
+      "tags": [
+        "道路・鉄道",
+        "環境・脱炭素"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "カンボジア シハヌークビル港 新コンテナターミナル工事を受注",
+      "url": "https://www.toa-const.co.jp/company/release/2023/231225.html",
+      "company": "東亜建設工業",
+      "date": "2023-12-25",
+      "tags": [
+        "道路・鉄道",
+        "港湾・海洋"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "切羽の岩盤強度分布を算出・可視化する「T-iBlast® TUNNEL」を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2023/231215_9840.html",
+      "company": "大成建設",
+      "date": "2023-12-15",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "建設技術フェア2023in中部に出展しています",
+      "url": "https://www.tobishima.co.jp/press_release/detail/20231206164223.html",
+      "company": "飛島建設",
+      "date": "2023-12-06",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2023.12.05 「新名神高速道路 高槻高架橋東(下部工)工事」が令和5年度NEXCO西日本 関西支社管内安全衛生協議会総会にて表彰されました！",
+      "url": "https://www.zenitaka.co.jp/reports/achievements/takatsuki-NEXCO-hyosho.html",
+      "company": "錢高組",
+      "date": "2023-12-05",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "環境負荷を大きく低減する地盤改良工法 「リソイルPro工法」を開発",
+      "url": "https://www.fudotetra-geo.jp/news/1",
+      "company": "不動テトラ",
+      "date": "2023-12-01",
+      "tags": [
+        "地盤・基礎"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "施工人員25％減と作業負荷軽減を実現 山岳トンネル工事の補助工法を完全機械化",
+      "url": "https://www.kajima.co.jp/news/press/202311/29c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2023-11-29",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 山岳トンネル 山岳"
+    },
+    {
+      "title": "山岳トンネル技術開発拠点「N-フィールド」始動",
+      "url": "https://www.nishimatsu.co.jp/news/2023/n-.html",
+      "company": "西松建設",
+      "date": "2023-11-29",
+      "tags": [
+        "トンネル"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "世界初！2 ブームロックボルト施工機の自動化を実現",
+      "url": "https://www.kajima.co.jp/news/press/202311/21c1-j.htm",
+      "company": "鹿島建設",
+      "date": "2023-11-21",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "ロックボルト"
+    },
+    {
+      "title": "第３１回土木施工技術報告会を開催 トピックス 2023年11月13日",
+      "url": "https://www.satokogyo.co.jp/news/detail.php?id=322",
+      "company": "佐藤工業",
+      "date": "2023-11-13",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "世界初、トンネル坑内で動的障害物を回避して自律飛行するドローンの実証実験に成功",
+      "url": "https://www.obayashi.co.jp/news/detail/news20231113_1.html",
+      "company": "大林組",
+      "date": "2023-11-13",
+      "tags": [
+        "トンネル",
+        "施工自動化・DX"
+      ],
+      "keywords": "トンネル 坑内 トンネル坑内"
+    },
+    {
+      "title": "高速道路リニューアル工事に使用する新方式の半断面床版取替機を開発",
+      "url": "https://www.taisei.co.jp/about_us/wn/2023/231109_9816.html",
+      "company": "大成建設",
+      "date": "2023-11-09",
+      "tags": [
+        "道路・鉄道"
+      ],
+      "keywords": ""
+    },
+    {
+      "title": "2023年度 土木シンポジウム開催",
+      "url": "https://www.nishimatsu.co.jp/news/2023/2023.html",
+      "company": "西松建設",
+      "date": "2023-11-01",
+      "tags": [
+        "その他土木技術"
+      ],
+      "keywords": ""
+    }
+  ],
+  "verified_seed_count": 90,
+  "statuses": [
+    {
+      "company": "鹿島建設",
+      "source": "https://www.kajima.co.jp/news/press/index-j.html",
+      "state": "未取得",
+      "listed": 0,
+      "detail_pending": 0,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "https://www.kajima.co.jp/news/press/index-j.html — 公式ホスト以外への転送"
+      ],
+      "accepted": 0
+    },
+    {
+      "company": "大成建設",
+      "source": "https://www.taisei.co.jp/about_us/wn/2026/",
+      "state": "一部確認",
+      "listed": 251,
+      "detail_pending": 108,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 43
+    },
+    {
+      "company": "大林組",
+      "source": "https://www.obayashi.co.jp/news/press/2026/",
+      "state": "一部確認",
+      "listed": 130,
+      "detail_pending": 31,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 27
+    },
+    {
+      "company": "清水建設",
+      "source": "https://www.shimz.co.jp/company/about/news-release/",
+      "state": "一部確認",
+      "listed": 201,
+      "detail_pending": 160,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "https://www.shimz.co.jp/company/about/news-release/ — 一覧のHTML内に対象の個別記事リンクを検出できません",
+        "公式土木ページの新着欄で 3 件の候補を補完。",
+        "公式サイトマップから補完候補 201 件。公式一覧の掲載範囲は未確認。"
+      ],
+      "accepted": 11
+    },
+    {
+      "company": "安藤ハザマ",
+      "source": "https://www.ad-hzm.co.jp/info/2026/",
+      "state": "未取得",
+      "listed": 0,
+      "detail_pending": 0,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "robots.txt — robots.txt の応答形式を確認できません (text/html)"
+      ],
+      "accepted": 0
+    },
+    {
+      "company": "五洋建設",
+      "source": "https://www.penta-ocean.co.jp/news/2026/index.html",
+      "state": "一覧確認済み",
+      "listed": 55,
+      "detail_pending": 0,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 15
+    },
+    {
+      "company": "前田建設工業",
+      "source": "https://www.maeda.co.jp/news/2026/",
+      "state": "一部確認",
+      "listed": 284,
+      "detail_pending": 19,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 29
+    },
+    {
+      "company": "戸田建設",
+      "source": "https://www.toda.co.jp/news/",
+      "state": "一部確認",
+      "listed": 433,
+      "detail_pending": 396,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "https://www.toda.co.jp/news/ — 一覧のHTML内に対象の個別記事リンクを検出できません",
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+        "https://www.bp.toda.co.jp/news/ — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.bp.toda.co.jp'. (_ssl.c:997)>",
+        "公式サイトマップから補完候補 433 件。公式一覧の掲載範囲は未確認。"
+      ],
+      "accepted": 0
+    },
+    {
+      "company": "西松建設",
+      "source": "https://www.nishimatsu.co.jp/news/2026/",
+      "state": "一部確認",
+      "listed": 162,
+      "detail_pending": 36,
+      "uncovered_years": [],
+      "errors": [
+        "https://www.nishimatsu.co.jp/news/2026/post_160.html — 本文を抽出できません",
+        "https://www.nishimatsu.co.jp/news/2025/post_149.html — 本文を抽出できません"
+      ],
+      "accepted": 34
+    },
+    {
+      "company": "熊谷組",
+      "source": "https://www.kumagaigumi.co.jp/news/",
+      "state": "一部確認",
+      "listed": 123,
+      "detail_pending": 85,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "https://www.kumagaigumi.co.jp/news/ — 一覧のHTML内に対象の個別記事リンクを検出できません",
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+        "公式サイトマップから補完候補 123 件。公式一覧の掲載範囲は未確認。"
+      ],
+      "accepted": 7
+    },
+    {
+      "company": "奥村組",
+      "source": "https://www.okumuragumi.co.jp/newsrelease/2026/",
+      "state": "一部確認",
+      "listed": 91,
+      "detail_pending": 0,
+      "uncovered_years": [],
+      "errors": [
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+      ],
+      "accepted": 22
+    },
+    {
+      "company": "東急建設",
+      "source": "https://www.tokyu-cnst.co.jp/topics/2026/",
+      "state": "未取得",
+      "listed": 0,
+      "detail_pending": 0,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "robots.txt — <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)>"
+      ],
+      "accepted": 0
+    },
+    {
+      "company": "鉄建建設",
+      "source": "https://www.tekken.co.jp/topics/news/2026/",
+      "state": "一部確認",
+      "listed": 39,
+      "detail_pending": 14,
+      "uncovered_years": [],
+      "errors": [
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+      ],
+      "accepted": 5
+    },
+    {
+      "company": "東亜建設工業",
+      "source": "https://www.toa-const.co.jp/company/release/2026/",
+      "state": "一覧確認済み",
+      "listed": 79,
+      "detail_pending": 0,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 20
+    },
+    {
+      "company": "若築建設",
+      "source": "https://www.wakachiku.co.jp/news/",
+      "state": "一部確認",
+      "listed": 27,
+      "detail_pending": 6,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 5
+    },
+    {
+      "company": "不動テトラ",
+      "source": "https://www.fudotetra.co.jp/news/",
+      "state": "一部確認",
+      "listed": 7,
+      "detail_pending": 0,
+      "uncovered_years": [
+        "2023",
+        "2024",
+        "2025",
+        "2026"
+      ],
+      "errors": [
+        "https://www.fudotetra.co.jp/news/ — 一覧のHTML内に対象の個別記事リンクを検出できません",
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ",
+        "公式土木ページの新着欄で 7 件の候補を補完。",
+        "公式サイトマップの探索上限（残りの分割一覧は未確認）"
+      ],
+      "accepted": 5
+    },
+    {
+      "company": "飛島建設",
+      "source": "https://www.tobishima.co.jp/press_release/2026.html",
+      "state": "一覧確認済み",
+      "listed": 58,
+      "detail_pending": 0,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 17
+    },
+    {
+      "company": "青木あすなろ建設",
+      "source": "https://www.aaconst.co.jp/news/year/2026/",
+      "state": "一部確認",
+      "listed": 25,
+      "detail_pending": 0,
+      "uncovered_years": [
+        "2023"
+      ],
+      "errors": [
+        "2022年 https://www.aaconst.co.jp/news/year/2022/ — 一覧のHTML内に対象の個別記事リンクを検出できません",
+        "追加読込やリンク形式の違いがある場合、確認できた範囲のみ"
+      ],
+      "accepted": 4
+    },
+    {
+      "company": "佐藤工業",
+      "source": "https://www.satokogyo.co.jp/news/?year=2026",
+      "state": "一部確認",
+      "listed": 72,
+      "detail_pending": 9,
+      "uncovered_years": [],
+      "errors": [
+        "https://www.satokogyo.co.jp/news/detail.php?id=413 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=383 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=375 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=370 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=367 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=357 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=358 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=339 — 本文を抽出できません",
+        "https://www.satokogyo.co.jp/news/detail.php?id=328 — 本文を抽出できません"
+      ],
+      "accepted": 13
+    },
+    {
+      "company": "錢高組",
+      "source": "https://www.zenitaka.co.jp/news/2026/",
+      "state": "一覧確認済み",
+      "listed": 27,
+      "detail_pending": 0,
+      "uncovered_years": [],
+      "errors": [],
+      "accepted": 11
+    }
+  ],
+  "reviewed": {
+    "kajima": [],
+    "taisei": [
+      "https://www.taisei.co.jp/about_us/wn/2026/260416_10979.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260416_10997.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260507_11024.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260513_11005.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260514_11032.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260519_10991.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260527_11036.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260528_11014.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260603_11071.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260617_11072.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260709_11113.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260710_11011.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260727_11135.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260806_11154.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260820_11158.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260908_11176.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/260915_11169.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261009_11185.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261015_11170.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261015_11203.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261015_11207.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261027_11232.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261029_11244.html",
+      "https://www.taisei.co.jp/about_us/wn/2026/261113_11093.html"
+    ],
+    "obayashi": [
+      "https://www.obayashi.co.jp/news/detail/news20250404_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20250424_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20250613_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20250624_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20250711_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20250902_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20250902_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20250924_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20251030_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20251120_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20251218_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260107_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260309_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260324_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20260417_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260423_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20260521_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260618_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260715_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260819_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260819_2.html",
+      "https://www.obayashi.co.jp/news/detail/news20260826_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20260915_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20261014_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20261104_1.html",
+      "https://www.obayashi.co.jp/news/detail/news20261106_1.html"
+    ],
+    "shimz": [
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025048.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025052.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025055.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025056.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025058.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025061.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025062.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025063.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025064.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2025067.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026001.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026003.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026004.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026005.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026007.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026011.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026014.html",
+      "https://www.shimz.co.jp/company/about/news-release/2026/2026017.html"
+    ],
+    "ando": [],
+    "penta": [
+      "https://www.penta-ocean.co.jp/news/2024/241001.html",
+      "https://www.penta-ocean.co.jp/news/2024/241111.html",
+      "https://www.penta-ocean.co.jp/news/2025/250108.html",
+      "https://www.penta-ocean.co.jp/news/2025/250206.html",
+      "https://www.penta-ocean.co.jp/news/2025/250619.html",
+      "https://www.penta-ocean.co.jp/news/2025/250805.html",
+      "https://www.penta-ocean.co.jp/news/2025/250908.html",
+      "https://www.penta-ocean.co.jp/news/2026/260114.html",
+      "https://www.penta-ocean.co.jp/news/2026/260126.html"
+    ],
+    "maeda": [
+      "https://www.maeda.co.jp/news/2025/08/18/5382.html",
+      "https://www.maeda.co.jp/news/2025/08/18/5668.html",
+      "https://www.maeda.co.jp/news/2025/10/09/5687.html",
+      "https://www.maeda.co.jp/news/2025/10/28/5692.html",
+      "https://www.maeda.co.jp/news/2025/11/05/5693.html",
+      "https://www.maeda.co.jp/news/2025/11/06/5695.html",
+      "https://www.maeda.co.jp/news/2026/01/14/5711.html",
+      "https://www.maeda.co.jp/news/2026/01/29/5719.html",
+      "https://www.maeda.co.jp/news/2026/02/09/5723.html",
+      "https://www.maeda.co.jp/news/2026/04/06/5733.html",
+      "https://www.maeda.co.jp/news/2026/06/10/5763.html",
+      "https://www.maeda.co.jp/news/2026/06/24/5771.html",
+      "https://www.maeda.co.jp/news/2026/08/18/5788.html",
+      "https://www.maeda.co.jp/news/2026/10/20/5806.html",
+      "https://www.maeda.co.jp/news/2026/10/22/5811.html",
+      "https://www.maeda.co.jp/news/2026/11/04/5818.html",
+      "https://www.maeda.co.jp/news/2026/11/13/5827.html",
+      "https://www.maeda.co.jp/news/2026/11/20/5832.html"
+    ],
+    "toda": [
+      "https://www.toda.co.jp/news/20230105_003161.html",
+      "https://www.toda.co.jp/news/20230106_003162.html",
+      "https://www.toda.co.jp/news/20230118_003163.html",
+      "https://www.toda.co.jp/news/20230126_003164.html",
+      "https://www.toda.co.jp/news/20230127_003165.html",
+      "https://www.toda.co.jp/news/20230207_003166.html",
+      "https://www.toda.co.jp/news/20230209_003168.html",
+      "https://www.toda.co.jp/news/20230210_003167.html",
+      "https://www.toda.co.jp/news/20230214_003172.html",
+      "https://www.toda.co.jp/news/20230221_003174.html",
+      "https://www.toda.co.jp/news/20230221_003176.html",
+      "https://www.toda.co.jp/news/20230227_003177.html",
+      "https://www.toda.co.jp/news/20230228_003178.html",
+      "https://www.toda.co.jp/news/20230315_003181.html",
+      "https://www.toda.co.jp/news/20230316_003183.html",
+      "https://www.toda.co.jp/news/20230323_003184.html",
+      "https://www.toda.co.jp/news/20230324_003186.html",
+      "https://www.toda.co.jp/news/20230327_003187.html",
+      "https://www.toda.co.jp/news/20230327_003190.html",
+      "https://www.toda.co.jp/news/20230328_003188.html",
+      "https://www.toda.co.jp/news/20230330_003191.html",
+      "https://www.toda.co.jp/news/20230331_003185.html",
+      "https://www.toda.co.jp/news/20230331_003194.html",
+      "https://www.toda.co.jp/news/20230331_003195.html",
+      "https://www.toda.co.jp/news/20230403_003193.html",
+      "https://www.toda.co.jp/news/20230404_003192.html",
+      "https://www.toda.co.jp/news/20230407_003196.html",
+      "https://www.toda.co.jp/news/20230410_003189.html",
+      "https://www.toda.co.jp/news/20230417_003198.html",
+      "https://www.toda.co.jp/news/20230418_003199.html",
+      "https://www.toda.co.jp/news/20230424_003201.html",
+      "https://www.toda.co.jp/news/20230425_003200.html",
+      "https://www.toda.co.jp/news/20230427_003204.html",
+      "https://www.toda.co.jp/news/20230511_003207.html",
+      "https://www.toda.co.jp/news/20230516_003208.html",
+      "https://www.toda.co.jp/news/20230526_003213.html"
+    ],
+    "nishimatsu": [
+      "https://www.nishimatsu.co.jp/news/2025/30.html",
+      "https://www.nishimatsu.co.jp/news/2025/architectural_focus404_works_of_architecture.html",
+      "https://www.nishimatsu.co.jp/news/2025/co2_1.html",
+      "https://www.nishimatsu.co.jp/news/2025/post_137.html",
+      "https://www.nishimatsu.co.jp/news/2025/post_138.html",
+      "https://www.nishimatsu.co.jp/news/2025/post_153.html",
+      "https://www.nishimatsu.co.jp/news/2025/post_154.html",
+      "https://www.nishimatsu.co.jp/news/2025/rc.html",
+      "https://www.nishimatsu.co.jp/news/2025/sigfox20256.html",
+      "https://www.nishimatsu.co.jp/news/2026/617-208cspi2026.html",
+      "https://www.nishimatsu.co.jp/news/2026/_2029_1.html",
+      "https://www.nishimatsu.co.jp/news/2026/bim_2.html",
+      "https://www.nishimatsu.co.jp/news/2026/post_159.html",
+      "https://www.nishimatsu.co.jp/news/2026/post_165.html",
+      "https://www.nishimatsu.co.jp/news/2026/post_173.html",
+      "https://www.nishimatsu.co.jp/news/2026/post_180.html"
+    ],
+    "kumagai": [
+      "https://www.kumagaigumi.co.jp/news/2025/pr-20250101-003712.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260213-004044.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260226-004053.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260319-004062.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260326-004063.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260330-004092.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260624-004259.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260701-004275.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260713-004283.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260715-004290.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260716-004291.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260717-004293.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260721-004294.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260731-004319.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20260901-004351.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261001-004367.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261005-004369.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261005-004370.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261014-004378.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261021-004384.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261023-004387.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261026-004388.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261102-004390.html",
+      "https://www.kumagaigumi.co.jp/news/2026/pr-20261105-004396.html"
+    ],
+    "okumura": [
+      "https://www.okumuragumi.co.jp/newsrelease/2023/post-45.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/-bfcelbic-co2.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/aiai20244.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/post-48.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/post-51.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/post-52.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2024/post-53.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/-celbic-racelbic13.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/-dicos-beam.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/3-48zehoc-residence-r-nishinomiya-ogo-202534.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/6-ict.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/post-60.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2025/post-65.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/4-1.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/40--4040.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/ai-5.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/celbicbf-1.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/pfos.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/post-71.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/post-74.html",
+      "https://www.okumuragumi.co.jp/newsrelease/2026/tm.html"
+    ],
+    "tokyu": [],
+    "tekken": [],
+    "toa": [
+      "https://www.toa-const.co.jp/company/release/2023/231109.html",
+      "https://www.toa-const.co.jp/company/release/2024/240112.html",
+      "https://www.toa-const.co.jp/company/release/2024/240206.html",
+      "https://www.toa-const.co.jp/company/release/2024/240313.html",
+      "https://www.toa-const.co.jp/company/release/2024/240524_02.html",
+      "https://www.toa-const.co.jp/company/release/2024/240902.html",
+      "https://www.toa-const.co.jp/company/release/2025/250225.html",
+      "https://www.toa-const.co.jp/company/release/2026/260326.html",
+      "https://www.toa-const.co.jp/company/release/2026/260703.html",
+      "https://www.toa-const.co.jp/company/release/2026/260713.html",
+      "https://www.toa-const.co.jp/company/release/2026/261102.html"
+    ],
+    "waka": [],
+    "fudo": [],
+    "tobishima": [
+      "https://www.tobishima.co.jp/press_release/detail/20231101111834.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240112092219.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240131131834.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240227170512.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240527130617.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240605101821.html",
+      "https://www.tobishima.co.jp/press_release/detail/20240723102224.html",
+      "https://www.tobishima.co.jp/press_release/detail/20250710155333.html",
+      "https://www.tobishima.co.jp/press_release/detail/20250730155241.html",
+      "https://www.tobishima.co.jp/press_release/detail/20251201134040.html",
+      "https://www.tobishima.co.jp/press_release/detail/20260317132214.html",
+      "https://www.tobishima.co.jp/press_release/detail/20260629161543.html",
+      "https://www.tobishima.co.jp/press_release/detail/20260907101057.html",
+      "https://www.tobishima.co.jp/press_release/detail/20261008155234.html",
+      "https://www.tobishima.co.jp/press_release/detail/20261119155512.html"
+    ],
+    "aoki": [
+      "https://www.aaconst.co.jp/news/news-release/20250311-2/",
+      "https://www.aaconst.co.jp/news/news-release/20260326-1/",
+      "https://www.aaconst.co.jp/news/news-release/20260721-1/",
+      "https://www.aaconst.co.jp/news/news-release/20260721-2/",
+      "https://www.aaconst.co.jp/news/news-release/20260910/",
+      "https://www.aaconst.co.jp/news/news-release/20261002/",
+      "https://www.aaconst.co.jp/news/news-release/20261102/"
+    ],
+    "sato": [
+      "https://www.satokogyo.co.jp/news/detail.php?id=333",
+      "https://www.satokogyo.co.jp/news/detail.php?id=340",
+      "https://www.satokogyo.co.jp/news/detail.php?id=400",
+      "https://www.satokogyo.co.jp/news/detail.php?id=405",
+      "https://www.satokogyo.co.jp/news/detail.php?id=429"
+    ],
+    "zenitaka": [
+      "https://www.zenitaka.co.jp/reports/achievements/13.html",
+      "https://www.zenitaka.co.jp/reports/achievements/2025-nahachosha-InfraDX.html",
+      "https://www.zenitaka.co.jp/reports/achievements/lykeion-01.html",
+      "https://www.zenitaka.co.jp/reports/achievements/post-17.html",
+      "https://www.zenitaka.co.jp/reports/achievements/post-19.html",
+      "https://www.zenitaka.co.jp/reports/achievements/taikisha-innovation-site-aikawa.html"
+    ]
+  },
+  "new_count": 60
+}

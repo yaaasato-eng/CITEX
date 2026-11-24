@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CITEX｜土木技術データベース</title>
+<style>
+:root{color-scheme:light;--ink:#17283b;--muted:#546677;--line:#e0e8ee;--blue:#175a79;--pale:#eaf4f7;--paper:#f5f8fa;--max:1160px}
+*{box-sizing:border-box}
+body{margin:0;color:var(--ink);background:var(--paper);font:15px/1.65 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic",Meiryo,sans-serif}
+a{color:var(--blue)}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #138caa;outline-offset:3px}
+.wrap{width:min(var(--max),calc(100% - 48px));margin:auto}
+.top{border-bottom:1px solid var(--line);background:white}
+.nav{display:flex;justify-content:space-between;align-items:center;min-height:62px;gap:16px}
+.brand{color:var(--ink);text-decoration:none;font-weight:850;font-size:24px;letter-spacing:.08em;display:inline-flex;align-items:center;gap:11px}
+.mark{display:inline-grid;place-items:center;background:#174d65;border-radius:7px;width:28px;height:28px;color:white;font-size:16px;letter-spacing:0}
+.nav a:last-child:not(.brand){font-weight:650;font-size:13px;text-decoration:none}
+.hero{background:white;padding:42px 0 29px;border-bottom:1px solid var(--line)}
+.hero h1{font-size:clamp(27px,5vw,42px);line-height:1.3;margin:0 0 8px;letter-spacing:.025em}
+.hero p{margin:0;color:var(--muted)}
+.metrics{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:1px;background:var(--line);border:1px solid var(--line);border-radius:11px;overflow:hidden;margin-top:26px}
+.metric{background:white;padding:13px 18px;text-align:left}
+button.metric{border:0;cursor:pointer;font-family:inherit;color:var(--ink);width:100%}
+button.metric:hover,button.metric[aria-pressed="true"]{background:var(--pale)}
+.metric span,.metric strong{display:block}
+.metric span{font-size:12px;color:var(--muted);font-weight:650}
+.metric strong{font-size:25px;line-height:1.25;font-variant-numeric:tabular-nums;margin-top:3px}
+.metric small{font-size:12px;margin-left:4px;color:var(--muted);font-weight:500}
+.meta{display:flex;flex-wrap:wrap;gap:6px 22px;margin-top:14px;color:var(--muted);font-size:12px}
+main{padding:24px 0 52px}
+.panel{padding:20px 23px;background:white;border:1px solid var(--line);border-radius:12px;margin-bottom:20px}
+h2{font-size:18px;line-height:1.45;margin:0}
+.filters{display:grid;grid-template-columns:1.7fr 1.05fr 1fr 1fr 1fr 1fr;gap:12px;margin-top:14px}
+label{display:block;font-size:12px;font-weight:700;margin-bottom:4px;color:var(--muted)}
+input,select{width:100%;min-width:0;height:42px;padding:0 9px;border:1px solid #cbd7df;border-radius:7px;background:#fff;font:inherit;color:var(--ink)}
+.section-head{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+button.clear{background:white;color:var(--blue);border:0;padding:4px;cursor:pointer;font:inherit;font-size:13px}
+details{border:1px solid var(--line);border-radius:9px;background:white;padding:10px 14px}
+summary{cursor:pointer;font-size:13px;font-weight:700}
+.cards{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:12px}
+.card{border:1px solid var(--line);border-radius:10px;background:white;padding:16px 18px;display:flex;flex-direction:column;align-items:flex-start}
+.card:hover{border-color:#a6c3ce}
+.card[data-company]{border-top:4px solid var(--company-color)}
+.card[data-company] .company{color:var(--company-ink);background:var(--company-tint);padding:1px 6px;border-radius:4px}
+.card[data-company="鹿島建設"]{--company-color:#cc454c;--company-ink:#922830;--company-tint:#fff0f1}
+.card[data-company="大成建設"]{--company-color:#e6b825;--company-ink:#775600;--company-tint:#fff6d4}
+.card[data-company="大林組"]{--company-color:#369464;--company-ink:#216444;--company-tint:#eaf7ee}
+.card[data-company="清水建設"]{--company-color:#3777c5;--company-ink:#234f87;--company-tint:#ecf4ff}
+.card .line{display:flex;flex-wrap:wrap;align-items:center;gap:10px;color:var(--muted);font-size:12px}
+.company{color:#194e68;font-weight:700}
+.card h3{margin:8px 0 12px;font-size:17px;line-height:1.55;overflow-wrap:anywhere}
+.card h3 a{text-decoration:none;color:var(--ink)}
+.card h3 a:hover{text-decoration:underline;color:var(--blue)}
+.tags{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto}
+.tag{border-radius:5px;background:var(--pale);color:#20556b;padding:2px 7px;font-size:11px}
+.official{margin-top:12px;font-size:12px;font-weight:650;text-decoration:none}
+.official:hover{text-decoration:underline}
+.ranking-note{margin:6px 0;color:var(--muted);font-size:12px}
+.chart-scroll{overflow-x:auto;margin-top:16px}
+.chart-content{--plot-height:176px}
+.axis-title{display:block;color:var(--muted);font-size:12px}
+.axis-x{text-align:center;margin-top:5px}
+.chart{display:flex;position:relative;padding:23px 0 0 44px}
+.chart-grid{position:absolute;left:44px;right:0;top:23px;height:var(--plot-height);pointer-events:none}
+.chart-tick{position:absolute;left:0;right:0;border-top:1px solid var(--line)}
+.chart-tick:last-child{border-color:#b8c9d4}
+.chart-tick span{position:absolute;right:100%;padding-right:8px;transform:translateY(-50%);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.chart-bars{width:100%;display:flex}
+.chart-bar{flex:1 0 90px;min-width:0;display:grid;grid-template-rows:var(--plot-height) auto;gap:8px;border:0;padding:0 5px 8px;background:transparent;color:var(--ink);font:inherit;cursor:pointer}
+.bar-column{height:100%;display:flex;align-items:center;justify-content:flex-end;flex-direction:column;position:relative}
+.bar-fill{position:relative;width:54%;max-width:52px;background:#267490;border-radius:5px 5px 0 0}
+.chart-bar:hover .bar-fill,.chart-bar:focus-visible .bar-fill{background:#164b65}
+.bar-value{position:absolute;bottom:100%;left:50%;transform:translateX(-50%);font-size:12px;font-weight:750;color:var(--ink)}
+.bar-label{display:block;font-size:11px;line-height:1.45;overflow-wrap:anywhere}
+.company-breakdown{margin-top:12px}
+.group-metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(126px,1fr));gap:4px}
+.group-title{margin:12px 0 4px;font-size:13px}
+.company-breakdown .metric{padding:8px 10px;border:1px solid var(--line);border-radius:8px}
+.company-breakdown .metric strong{font-size:19px}
+.rank-control{max-width:215px;margin-top:10px}
+#rank-active{margin-top:10px}
+#result,#message{color:var(--muted);font-size:13px}
+#more{display:block;margin:18px auto 0;border:1px solid #abc0ca;color:var(--blue);border-radius:8px;background:white;cursor:pointer;font:inherit;padding:8px 20px}
+[hidden]{display:none!important}
+@media(max-width:900px){.cards{grid-template-columns:repeat(2,minmax(0,1fr))}.filters{grid-template-columns:repeat(4,minmax(0,1fr))}.search{grid-column:1/-1}}
+@media(max-width:630px){.wrap{width:calc(100% - 28px)}.nav{min-height:52px}.hero{padding:27px 0 18px}.metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.metrics .metric:first-child{grid-column:1/-1}.filters{grid-template-columns:repeat(2,minmax(0,1fr))}.panel{padding:15px}.cards{grid-template-columns:1fr}.card h3{font-size:16px}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap nav"><a class="brand" href="./"><span class="mark" aria-hidden="true">C</span>CITEX</a><a href="#articles">記事一覧 ↓</a></div></header>
+<section class="hero"><div class="wrap">
+  <h1>土木技術データベース</h1>
+  <p id="hero-sources">建設会社の公式プレスリリース・技術ニュース</p>
+  <div class="metrics" id="metrics" aria-label="収集件数"></div>
+  <details class="company-breakdown"><summary>企業別の収集件数</summary><div id="company-metrics"></div></details>
+  <div class="meta"><span id="archive"></span><span id="updated">最終更新 —</span><span id="attempted"></span></div>
+</div></section>
+<main class="wrap">
+  <section class="panel" aria-labelledby="filters-heading">
+    <div class="section-head"><h2 id="filters-heading">絞り込み</h2><button id="reset" type="button" class="clear">条件をクリア</button></div>
+    <form id="filters" class="filters">
+      <div class="search"><label for="q">キーワード</label><input type="search" id="q" placeholder="例：橋梁 補修"></div>
+      <div><label for="group">企業区分</label><select id="group"><option value="">すべての区分</option></select></div>
+      <div><label for="company">企業</label><select id="company"><option value="">すべての企業</option></select></div>
+      <div><label for="field">技術分野</label><select id="field"><option value="">すべての分野</option></select></div>
+      <div><label for="from">公開日（開始）</label><input id="from" type="date"></div>
+      <div><label for="to">公開日（終了）</label><input id="to" type="date"></div>
+    </form>
+  </section>
+  <section class="panel" aria-labelledby="ranking-heading">
+    <div class="section-head"><h2 id="ranking-heading">トレンド記事</h2><span id="rank-scope" class="ranking-note"></span></div>
+    <p class="ranking-note">記事タイトルを技術用語の辞書で集計。同じ語や表記違いは、1記事につき1件と数えます。</p>
+    <p class="ranking-note">CITEXの収集済み記事が対象です。取得漏れや収集分野の偏りは件数に影響します。</p>
+    <div class="rank-control"><label for="rank-mode">集計対象企業</label><select id="rank-mode"><option value="all">登録企業すべて</option><option value="major">従来の大手4社</option></select></div>
+    <p id="rank-empty" class="ranking-note" hidden></p>
+    <div id="rank-chart" class="chart-scroll" tabindex="0" aria-label="キーワード別の記事数。棒を選ぶと該当記事を表示" hidden>
+      <div id="chart-content" class="chart-content">
+        <span class="axis-title">記事数</span>
+        <div class="chart">
+          <div id="chart-grid" class="chart-grid" aria-hidden="true"></div>
+          <div id="chart-bars" class="chart-bars"></div>
+        </div>
+        <span class="axis-title axis-x">キーワード</span>
+      </div>
+    </div>
+    <button type="button" id="rank-more" class="clear" hidden>すべてのキーワードを表示</button>
+  </section>
+  <section id="articles" aria-labelledby="articles-heading" tabindex="-1">
+    <div class="section-head"><h2 id="articles-heading">記事一覧</h2><span id="result" aria-live="polite"></span></div>
+    <button id="rank-active" type="button" class="clear" hidden></button>
+    <p id="message" role="status">記事を読み込んでいます。</p>
+    <div class="cards" id="cards"></div>
+    <button id="more" type="button" hidden>さらに表示</button>
+  </section>
+</main>
+<script>
+"use strict";
+const fields = ["トンネル","橋梁","ダム・河川","地盤・基礎","コンクリート","道路・鉄道","港湾・海洋","施工自動化・DX","環境・脱炭素","その他土木技術"];
+// 近い表記をまとめ、工事一般の頻出語（開発、工事、実証など）は集計しない。
+const trendTerms = [
+  ["山岳トンネル", /山岳トンネル|natm/],
+  ["シールド工法", /シールド(?:工|トンネル|掘|機|坑)|泥土圧シールド|泥水式シールド/],
+  ["トンネル", /トンネル|natm|シールド(?:工|掘|機|坑)/],
+  ["切羽", /切羽/],
+  ["覆工", /(?<!被)覆工|インバート/],
+  ["地山", /地山|断層破砕帯/],
+  ["発破", /発破|装薬|火薬装填|爆薬装填/],
+  ["ロックボルト", /ロックボルト/],
+  ["橋梁", /橋梁|橋りょう|道路橋|鉄道橋|橋脚|橋台|鋼橋/],
+  ["床版", /床版|デッキプレート/],
+  ["ダム", /ダム/],
+  ["河川・治水", /河川|治水|堤防|護岸|放水路/],
+  ["地盤改良", /地盤改良|地盤補強|深層混合/],
+  ["杭基礎", /杭基礎|基礎杭|場所打ち杭|杭打ち/],
+  ["道路", /道路|高速道|国道[0-9]|舗装/],
+  ["鉄道", /鉄道|新幹線|地下鉄|軌道工事/],
+  ["港湾・海洋", /港湾|岸壁|防波堤|浚渫|海洋|海底|洋上/],
+  ["上下水道", /下水|上水道|水道管|管渠/],
+  ["コンクリート", /コンクリート|生コン/],
+  ["プレキャスト", /プレキャスト|(?<![a-z])pca(?![a-z])/],
+  ["セメント", /セメント/],
+  ["脱炭素", /脱炭素|低炭素|カーボン(?:ニュートラル|ネガティブ)|co2(?:排出|削減|貯留|吸収)|環境配慮型/],
+  ["再資源化", /再資源化|リサイクル|再生材|再生骨材/],
+  ["自動化", /自動化|自動(?:設計|運転|打設|施工|計測|測量|装填|吹付|制御|掘削)|全自動|自動・自律|オートメーション|完全機械化/],
+  ["無人化・省人化", /無人化|省人化|省力化/],
+  ["遠隔施工・操作", /遠隔(?:操作|制御|施工|操縦|巡回|装薬|爆薬装填|監視|計測|運航)/],
+  ["AI", /(?<![a-z])ai(?![a-z])|人工知能|深層学習|ディープラーニング|機械学習/],
+  ["BIM/CIM", /(?<![a-z])(?:bim|cim)(?![a-z])/],
+  ["DX", /(?<![a-z])dx(?![a-z])|デジタルトランスフォーメーション/],
+  ["ドローン", /ドローン|(?<![a-z])uav(?![a-z])|無人航空機/],
+  ["点群・3D計測", /点群|3dレー[ザー]+|lidar|レーザスキャナ/],
+  ["維持管理・補修", /維持管理|補修|補強|老朽化|リニューアル|健全度/],
+];
+const $ = id => document.getElementById(id);
+const format = new Intl.NumberFormat("ja-JP");
+const timeFormat = new Intl.DateTimeFormat("ja-JP",{timeZone:"Asia/Tokyo",year:"numeric",month:"2-digit",day:"2-digit",hour:"2-digit",minute:"2-digit",timeZoneName:"short"});
+const textMatch = value => String(value ?? "").normalize("NFKC").toLowerCase();
+const el = (tag, value, cls) => {
+  const node = document.createElement(tag);
+  if (value !== undefined) node.textContent = value;
+  if (cls) node.className = cls;
+  return node;
+};
+let articles = [];
+let limit = 48;
+let companyButtons = [];
+let sources = [];
+let groups = {};
+let activeRankGroup = "";
+let activeTerm = "";
+let showAllTerms = false;
+function link(url, label) {
+  const parsed = new URL(url);
+  if (!["https:", "http:"].includes(parsed.protocol)) return el("span", label);
+  const a = el("a", label);
+  a.href = parsed.href;
+  a.target = "_blank";
+  a.rel = "noopener noreferrer";
+  return a;
+}
+function addMetric(name, count, value, container = $("metrics")) {
+  const node = el(value === undefined ? "div" : "button", undefined, "metric");
+  const amount = el("strong",format.format(count));
+  amount.append(el("small","件"));
+  node.append(el("span", name), amount);
+  if (value !== undefined) {
+    node.type = "button";
+    node.addEventListener("click", () => {
+      const next = $("company").value === value ? "" : value;
+      $("group").value = next ? sources.find(source => source.name === next).group : $("group").value;
+      populateCompany(next);
+      refilter();
+    });
+    companyButtons.push([node,value]);
+  }
+  container.append(node);
+}
+function articleCard(item) {
+  const card = el("article",undefined,"card");
+  if (item.group === "major") card.setAttribute("data-company",item.company);
+  const line = el("div",undefined,"line");
+  const date = el("time",item.date.replaceAll("-","."));
+  date.dateTime = item.date;
+  line.append(el("span",item.company,"company"),date);
+  const title = el("h3");
+  title.append(link(item.url,item.title));
+  const tags = el("div",undefined,"tags");
+  for (const tag of item.tags) tags.append(el("span",tag,"tag"));
+  const official = link(item.url,"公式リリースを開く ↗");
+  official.className = "official";
+  official.setAttribute("aria-label", `公式リリースを開く：${item.title}`);
+  card.append(line,title,tags,official);
+  return card;
+}
+function filtered() {
+  const keywords = textMatch($("q").value).trim().split(/\s+/).filter(Boolean);
+  const company = $("company").value;
+  const group = $("group").value;
+  const field = $("field").value;
+  const from = $("from").value;
+  const to = $("to").value;
+  if (from && to && from > to) return null;
+  return articles.filter(item =>
+    (!company || item.company === company) &&
+    (!group || item.group === group) &&
+    (!field || item.tags.includes(field)) &&
+    (!from || item.date >= from) &&
+    (!to || item.date <= to) &&
+    keywords.every(word => item.search.includes(word)));
+}
+function rankKeywords(items) {
+  const counts = new Map();
+  for (const item of items) {
+    for (const term of item.trends) counts.set(term,(counts.get(term) ?? 0) + 1);
+  }
+  return [...counts].sort(([a, countA],[b, countB]) => countB - countA || a.localeCompare(b,"ja"));
+}
+function renderRanking(results) {
+  const group = $("rank-mode").value === "major" ? "major" : "";
+  const scoped = group ? results?.filter(item => item.group === group) : results;
+  const rows = rankKeywords(scoped ?? []);
+  $("rank-scope").textContent = `集計対象 ${format.format(scoped?.length ?? 0)}件`;
+  $("rank-chart").hidden = rows.length === 0;
+  $("rank-empty").hidden = rows.length !== 0;
+  $("rank-empty").textContent = results === null
+    ? "公開日の範囲を確認してください。"
+    : "集計対象の記事に登録済みの技術用語がありません。";
+  const visible = showAllTerms ? rows : rows.slice(0,10);
+  $("chart-content").style.minWidth = `${44 + visible.length * 90}px`;
+  $("rank-more").hidden = rows.length <= 10;
+  $("rank-more").textContent = showAllTerms ? "上位10件を表示" : "すべてのキーワードを表示";
+  const step = Math.max(1,Math.ceil((rows[0]?.[1] ?? 1)/4));
+  const top = Math.ceil((rows[0]?.[1] ?? 1)/step) * step;
+  const ticks = [];
+  for (let value = top; value >= 0; value -= step) {
+    const tick = el("div",undefined,"chart-tick");
+    tick.style.top = `${100 * (1 - value/top)}%`;
+    tick.append(el("span",format.format(value)));
+    ticks.push(tick);
+  }
+  $("chart-grid").replaceChildren(...ticks);
+  $("chart-bars").replaceChildren(...visible.map(([term,count]) => {
+    const button = el("button",undefined,"chart-bar");
+    button.type = "button";
+    button.setAttribute("aria-label",`${term}、${format.format(count)}件。該当記事を表示`);
+    const column = el("span",undefined,"bar-column");
+    const bar = el("span",undefined,"bar-fill");
+    bar.style.height = `${100 * count/top}%`;
+    bar.append(el("span",format.format(count),"bar-value"));
+    column.append(bar);
+    button.append(column,el("span",term,"bar-label"));
+    button.addEventListener("click",() => {
+      activeTerm = term;
+      activeRankGroup = group;
+      limit = 48;
+      renderArticles(results);
+      $("articles").focus();
+    });
+    return button;
+  }));
+}
+function renderArticles(results) {
+  const shown = (results ?? []).filter(item => !activeTerm || (item.trends.includes(activeTerm) && (!activeRankGroup || item.group === activeRankGroup)));
+  $("rank-active").hidden = !activeTerm;
+  $("rank-active").textContent = activeTerm ? `${activeTerm}${activeRankGroup ? "（従来の大手4社）" : ""}の絞り込みを解除 ×` : "";
+  for (const [node,value] of companyButtons) node.setAttribute("aria-pressed",String(value === $("company").value));
+  $("result").textContent = `${format.format(shown.length)} 件 · 新着順`;
+  $("message").textContent = results === null ? "終了日は開始日以降を指定してください。" : "条件に該当する記事がありません。";
+  $("message").hidden = shown.length > 0;
+  $("cards").replaceChildren(...shown.slice(0,limit).map(articleCard));
+  $("more").hidden = shown.length <= limit;
+}
+function render() {
+  const results = filtered();
+  if (activeTerm && !results?.some(item => item.trends.includes(activeTerm) && (!activeRankGroup || item.group === activeRankGroup))) activeTerm = "";
+  renderRanking(results);
+  renderArticles(results);
+}
+function refilter() {
+  limit = 48;
+  render();
+}
+async function load(url) {
+  const response = await fetch(url,{cache:"no-store"});
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return response.json();
+}
+function populateCompany(selected = $("company").value) {
+  const options = [new Option("すべての企業","")];
+  for (const [key,name] of Object.entries(groups)) {
+    if ($("group").value && $("group").value !== key) continue;
+    const group = el("optgroup");
+    group.label = name;
+    group.append(...sources.filter(source => source.group === key).map(source => new Option(source.name,source.name)));
+    options.push(group);
+  }
+  $("company").replaceChildren(...options);
+  $("company").value = sources.some(source => source.name === selected && (!$("group").value || source.group === $("group").value)) ? selected : "";
+}
+async function init() {
+  const [data, config] = await Promise.all([load("./articles.json"),load("./sources.json")]);
+  sources = config.sources;
+  groups = config.groups;
+  const byName = new Map(sources.map(source => [source.name,source]));
+  articles = data.articles.map(item => {
+    const title = textMatch(item.title);
+    const source = byName.get(item.company);
+    return {...item,group:source?.group,
+      search:textMatch([item.title,item.company,...(source?.aliases ?? []),...item.tags,item.keywords].join(" ")),
+      trends:trendTerms.filter(([,pattern]) => pattern.test(title)).map(([term]) => term)
+    };
+  });
+  articles.sort((a,b) => b.date.localeCompare(a.date) || a.title.localeCompare(b.title,"ja"));
+  $("hero-sources").textContent = `建設会社${sources.length}社の公式プレスリリース・技術ニュース`;
+  addMetric("総収集件数",articles.length);
+  for (const [key,name] of Object.entries(groups)) {
+    const members = sources.filter(source => source.group === key);
+    $("group").add(new Option(name,key));
+    addMetric(name,articles.filter(item => item.group === key).length);
+    const panel = el("section");
+    const grid = el("div",undefined,"group-metrics");
+    panel.append(el("h3",name,"group-title"),grid);
+    for (const source of members) {
+      addMetric(source.name,articles.filter(item => item.company === source.name).length,source.name,grid);
+    }
+    $("company-metrics").append(panel);
+  }
+  populateCompany("");
+  for (const field of fields) $("field").add(new Option(field,field));
+  $("archive").textContent = `収集対象 ${config.start_date.replaceAll("-",".")} 以降`;
+  $("updated").textContent = `最終更新 ${data.updated_at ? timeFormat.format(new Date(data.updated_at)) : "未実施"}`;
+  if (data.attempted_at) $("attempted").textContent = `最終取得試行 ${timeFormat.format(new Date(data.attempted_at))}`;
+  $("filters").addEventListener("submit", event => event.preventDefault());
+  $("filters").addEventListener("input",event => {
+    if (event.target.id === "group") populateCompany();
+    refilter();
+  });
+  $("rank-mode").addEventListener("change",() => {
+    activeTerm = "";
+    refilter();
+  });
+  $("reset").addEventListener("click",() => { $("filters").reset(); populateCompany(""); activeTerm = ""; refilter(); });
+  $("more").addEventListener("click",() => { limit += 48; renderArticles(filtered()); });
+  $("rank-more").addEventListener("click",() => {
+    showAllTerms = !showAllTerms;
+    renderRanking(filtered());
+  });
+  $("rank-active").addEventListener("click",() => {
+    activeTerm = "";
+    limit = 48;
+    renderArticles(filtered());
+    $("articles").focus();
+  });
+  render();
+}
+init().catch(error => { $("message").textContent = `記事を読み込めませんでした（${error.message}）。CITEX.command から開き直してください。`; });
+</script>
+</body>
+</html>
